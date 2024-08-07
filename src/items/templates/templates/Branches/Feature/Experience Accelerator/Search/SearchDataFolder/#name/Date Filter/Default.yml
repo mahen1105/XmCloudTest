@@ -1,0 +1,151 @@
+﻿---
+ID: "b2960d81-4de1-4c3e-a0a7-20f544ad36d7"
+Parent: "b458c91a-d461-4601-baa1-f21db3ef9837"
+Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Date Filter/Default
+SharedFields:
+- ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
+  Hint: Facet
+  Value: "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Standard
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3dc2d905-c97a-4c68-a24f-67a8181441f3"
+      Hint: FromDateText
+      Value: Fra
+    - ID: "7b6f8374-8faa-4cc0-befe-b6de5d864fc1"
+      Hint: ToDateText
+      Value: Til
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Standard
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Default
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "3dc2d905-c97a-4c68-a24f-67a8181441f3"
+      Hint: FromDateText
+      Value: Von
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7b6f8374-8faa-4cc0-befe-b6de5d864fc1"
+      Hint: ToDateText
+      Value: An
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Default
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T090415Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d8dc9b0-684b-4596-b540-8c65c5202d39"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: デフォルト
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "3dc2d905-c97a-4c68-a24f-67a8181441f3"
+      Hint: FromDateText
+      Value: 参照元
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7b6f8374-8faa-4cc0-befe-b6de5d864fc1"
+      Hint: ToDateText
+      Value: 宛先
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: デフォルト
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+- Language: "zh-CN"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 默认
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "3dc2d905-c97a-4c68-a24f-67a8181441f3"
+      Hint: FromDateText
+      Value: 从
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7b6f8374-8faa-4cc0-befe-b6de5d864fc1"
+      Hint: ToDateText
+      Value: 至
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: 默认
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z

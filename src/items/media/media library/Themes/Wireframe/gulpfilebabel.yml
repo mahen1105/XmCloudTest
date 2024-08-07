@@ -1,0 +1,36 @@
+﻿---
+ID: "29abb7ce-1095-4bac-9d94-08d18b4035ed"
+Parent: "e99b315f-8c89-4419-a84f-be1005ef2ddc"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/Wireframe/gulpfilebabel
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/29ABB7CE10954BAC9D9408D18B4035ED.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "29abb7ce-1095-4bac-9d94-08d18b4035ed"
+  Value: LyoNCiAqIGd1bHBmaWxlLmpzDQogKiA9PT09PT09PT09PQ0KICogUmF0aGVyIHRoYW4gbWFuYWdlIG9uZSBnaWFudCBjb25maWd1cmF0aW9uIGZpbGUgcmVzcG9uc2libGUNCiAqIGZvciBjcmVhdGluZyBtdWx0aXBsZSB0YXNrcywgZWFjaCB0YXNrIGhhcyBiZWVuIGJyb2tlbiBvdXQgaW50bw0KICogaXRzIG93biBmaWxlIGluIGd1bHAvdGFza3MuIEFueSBmaWxlIGluIHRoYXQgZm9sZGVyIGdldHMgYXV0b21hdGljYWxseQ0KICogcmVxdWlyZWQgYnkgdGhlIGxvb3AgaW4gLi9ndWxwL2luZGV4LmpzIChyZXF1aXJlZCBiZWxvdykuDQogKg0KICogVG8gYWRkIGEgbmV3IHRhc2ssIHNpbXBseSBhZGQgYSBuZXcgdGFzayBmaWxlIHRvIGd1bHAvdGFza3MuDQogKi8NCg0KZ2xvYmFsLmlzUHJvZCA9IGZhbHNlOw0KcmVxdWlyZSgiQGJhYmVsL3JlZ2lzdGVyIikoe30pOw0KcmVxdWlyZSgnLi9ndWxwJyk7
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 456
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170802T113611Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a3e3886-d51b-4406-a297-96ffca3c8225"

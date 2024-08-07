@@ -1,0 +1,25 @@
+﻿---
+ID: "c2a72cd4-ddfb-44a2-859f-75ee338c4386"
+Parent: "0e1b455f-4354-4874-be54-72f84e55f3a8"
+Template: "0e1b455f-4354-4874-be54-72f84e55f3a8"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Security/Base/_Sitecore Client Site Managing/__Standard Values
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Sitecore Client Site Managing|pd|+item:delete|+item:write|+item:rename|+item:create|pe|+item:delete|+item:write|+item:rename|+item:create|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221118T131300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8860da06-7aff-4bc7-b5e9-086b3cccbd08"

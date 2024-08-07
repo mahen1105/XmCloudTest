@@ -1,0 +1,37 @@
+﻿---
+ID: "6d6d5fa4-094c-4f04-b71e-6f976c770733"
+Parent: "3ebf012c-97a1-4c71-b296-3bc19fa5b47f"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/styles/component-logout"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6D6D5FA4094C4F04B71E6F976C770733.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6d6d5fa4-094c-4f04-b71e-6f976c770733"
+  Value: LyogYnJlYWtwb2ludHMgKi8KLmxvZ291dCB7CiAgLyogYnJlYWtwb2ludHMgKi8KICBwYWRkaW5nOiAxNXB4IDE1cHggMTVweCAxNXB4Owp9CgoubG9nb3V0IGEgewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBmb250LXNpemU6IDEzcHg7CiAgY29sb3I6ICM1ZTVlNWU7Cn0KCi5sb2dvdXQgYTpob3ZlciwgLmxvZ291dCBhOmZvY3VzIHsKICBjb2xvcjogIzQ3NDc0NzsKICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cn0KCi5sb2dvdXQgYS5idG4gewogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKfQoKLmxvZ291dCAuY29tcG9uZW50LWNvbnRlbnQgewogIGZvbnQtc2l6ZTogMTJweDsKICBjb2xvcjogI2ZmZmZmZjsKfQoKLmxvZ291dCAuY29tcG9uZW50LWNvbnRlbnQgPiBhLAoubG9nb3V0IC5jb21wb25lbnQtY29udGVudCA+IHAgewogIHBhZGRpbmc6IDE1cHggMTVweCAxNXB4IDE1cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogIzVlNWU1ZTsKICBjb2xvcjogI2ZmZmZmZjsKICBib3JkZXItcmFkaXVzOiA1cHg7CiAgZm9udC1mYW1pbHk6ICJPcGVuIFNhbnMiLCBIZWx2ZXRpY2EsIFZlcmRhbmEsIFRhaG9tYSwgc2Fucy1zZXJpZjsKICBkaXNwbGF5OiBibG9jazsKICBmb250LXNpemU6IGluaGVyaXQ7CiAgY29sb3I6IGluaGVyaXQ7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 703
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09d81013-a273-4ea3-96b6-12f6f1c874de"

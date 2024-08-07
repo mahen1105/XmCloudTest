@@ -1,0 +1,36 @@
+﻿---
+ID: "93fee019-73cd-4b5f-90cf-8ae1b6e76402"
+Parent: "38e7f36b-5ca4-4c61-b111-184864dac604"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Base Themes/Editing Components/Scripts/component-galleria-edit"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/93FEE01973CD4B5F90CF8AE1B6E76402.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "93fee019-73cd-4b5f-90cf-8ae1b6e76402"
+  Value: 77u/WEEuY29tcG9uZW50LmdhbGxlcmlhICYmICBYQS5jb21wb25lbnQuZ2FsbGVyaWEuaW5pdEluc3RhbmNlICYmIChYQS5jb21wb25lbnQuZ2FsbGVyaWEuaW5pdEluc3RhbmNlID0gKGZ1bmN0aW9uIChmdW5jLCAkKSB7DQogICAgDQoJdmFyIGJlZm9yZUluaXRTY3JpcHQgPSBmdW5jdGlvbiAoY29tcG9uZW50LCBwcm9wKSB7DQogICAgfQ0KDQogICAgdmFyIGFmdGVySW5pdFNjcmlwdCA9IGZ1bmN0aW9uIChjb21wb25lbnQpIHsNCgl9DQoJDQogICAgcmV0dXJuIGZ1bmN0aW9uIChjb21wb25lbnQsIHByb3ApIHsNCiAgICAgICAgdHJ5IHsNCiAgICAgICAgICAgIHZhciBfcHJvcCA9IGJlZm9yZUluaXRTY3JpcHQoY29tcG9uZW50LCBwcm9wKTsNCiAgICAgICAgfSBjYXRjaCAoZSkgew0KICAgICAgICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLWNvbnNvbGUNCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpDQogICAgICAgIH0NCiAgICAgICAgLy92YXIgYW5zd2VyID0gZnVuYy5hcHBseSh0aGlzLCBbY29tcG9uZW50LF9wcm9wXSk7DQogICAgICAgIHRyeSB7DQogICAgICAgICAgICBhZnRlckluaXRTY3JpcHQoY29tcG9uZW50KTsNCiAgICAgICAgfSBjYXRjaCAoZSkgew0KICAgICAgICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLWNvbnNvbGUNCiAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpDQogICAgICAgIH0NCg0KICAgICAgICAvL3JldHVybiBhbnN3ZXI7DQogICAgfQ0KDQp9KShYQS5jb21wb25lbnQuZ2FsbGVyaWEuaW5pdEluc3RhbmNlLCBqUXVlcnkpKQ0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 801
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 225
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180305T094945Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e86c4df-a3d7-40d6-8ce0-4aaf3d7a775b"

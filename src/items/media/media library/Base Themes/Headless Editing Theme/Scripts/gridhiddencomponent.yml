@@ -1,0 +1,40 @@
+﻿---
+ID: "0abd4be8-5e12-4cd4-aeb4-0f2b9c7ff5b6"
+Parent: "194d037f-078c-4447-bf60-9f2e0878384b"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Headless Editing Theme/Scripts/gridhiddencomponent
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/0ABD4BE85E124CD4AEB40F2B9C7FF5B6.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0abd4be8-5e12-4cd4-aeb4-0f2b9c7ff5b6"
+  Value: LyoqDQogR3JpZGRIaWRkZW5Db21wb25lbnQNCiovDQppZiAodHlwZW9mICgkeGEpICE9PSAidW5kZWZpbmVkIikgew0KICAgICR4YS5ncmlkaGlkZGVuY29tcG9uZW50cyA9IChmdW5jdGlvbiAoJHNjLCBkb2N1bWVudCkgew0KICAgICAgICB2YXIgYXBpID0ge307DQogICAgICAgIGlmICghJHNjKSB7DQogICAgICAgICAgICByZXR1cm47DQogICAgICAgIH0NCiAgICAgICAgYXBpLnJlbW92ZSA9IGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICRzYygiI19fbmV4dCIpLnJlbW92ZUNsYXNzKCJncmlkLXNob3ctaGlkZGVuIik7DQogICAgICAgIH07DQoNCiAgICAgICAgYXBpLmluaXQgPSBmdW5jdGlvbiAoY2xhc3Nlcykgew0KICAgICAgICAgICAgJHNjKCIjX19uZXh0IikuYWRkQ2xhc3MoImdyaWQtc2hvdy1oaWRkZW4iKTsNCiAgICAgICAgfTsNCg0KICAgICAgICByZXR1cm4gYXBpOw0KICAgIH0od2luZG93LiRzYywgZG9jdW1lbnQpKTsNCn0=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 482
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221223T091520Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddf3ede8-26a2-460d-bbc9-2e48763d4c0d"

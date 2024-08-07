@@ -1,0 +1,37 @@
+﻿---
+ID: "3f7175ec-3f64-4aa1-91b0-31dca8e6a34e"
+Parent: "7d5af9a5-2703-4691-96de-ca8d1d311e96"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Foundation/Experience Accelerator/Horizon/icon_Mobile_landscape
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3F7175EC3F644AA191B031DCA8E6A34E.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3f7175ec-3f64-4aa1-91b0-31dca8e6a34e"
+  Value: PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yLjUgMTdMMi41IDdDMi41IDYuNzIzODYgMi43MjM4NiA2LjUgMyA2LjVMMTguNSA2LjVMMTguNSAxNy41TDMgMTcuNUMyLjcyMzg2IDE3LjUgMi41IDE3LjI3NjEgMi41IDE3Wk0yMCAxNy41SDIxQzIxLjI3NjEgMTcuNSAyMS41IDE3LjI3NjEgMjEuNSAxN0wyMS41IDdDMjEuNSA2LjcyMzg2IDIxLjI3NjEgNi41IDIxIDYuNUwyMCA2LjVMMjAgMTcuNVpNMyAxOUMxLjg5NTQzIDE5IDEgMTguMTA0NiAxIDE3TDEgN0MxIDUuODk1NDMgMS44OTU0MyA1IDMgNUwyMSA1QzIyLjEwNDYgNSAyMyA1Ljg5NTQzIDIzIDdMMjMgMTdDMjMgMTguMTA0NiAyMi4xMDQ2IDE5IDIxIDE5TDMgMTlaIiBmaWxsPSIjOTQ5NDlEIi8+Cjwvc3ZnPgo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 503
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230315T081435Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a49f5de-de0c-472d-a2c4-a4d442889ee9"

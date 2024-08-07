@@ -1,0 +1,16 @@
+﻿---
+ID: "8ca2cc25-5b87-4d92-8ae5-523e9e235a4e"
+Parent: "554e2252-16fb-4f5c-a53c-0b4e207b03e4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Wireframe/sass/base/sprites
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131357Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12f75959-60c9-4f71-bbc3-6c0378d623d2"

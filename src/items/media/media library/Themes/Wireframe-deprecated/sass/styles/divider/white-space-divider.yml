@@ -1,0 +1,37 @@
+﻿---
+ID: "6cfa29ad-5ec6-4d53-bd46-3bc58742b5dd"
+Parent: "43f036a5-e269-48fb-b2ea-f745ee410e27"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/styles/divider/white-space-divider"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6CFA29AD5EC64D53BD463BC58742B5DD.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6cfa29ad-5ec6-4d53-bd46-3bc58742b5dd"
+  Value: LndoaXRlLXNwYWNlLWRpdmlkZXIgew0KICAgIGhyIHsNCiAgICAgICAgYm9yZGVyOiBub25lOw0KICAgIH0NCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 67
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131412Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "556eb321-9eec-497a-8588-3b6dab51d16b"

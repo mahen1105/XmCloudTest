@@ -1,0 +1,20 @@
+﻿---
+ID: "ec0ab731-3b6c-4e88-b6c3-cf3449f4848d"
+Parent: "deeaa769-6d96-4b6b-8e5f-39b5b073fbc1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Horizon/Devices/Base/_StackBreakpoint/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160704T112141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "600d7f7d-09fe-4ba8-8038-bd11df181be8"

@@ -1,0 +1,16 @@
+﻿---
+ID: "0ce66648-1912-4e35-b478-706615a5dde5"
+Parent: "60fa207f-b0ab-417f-b187-2824d6ef7c8e"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Base Themes/Variants/Scripts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160622T065854Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "914d6fb7-940b-48de-af04-a515757971d5"

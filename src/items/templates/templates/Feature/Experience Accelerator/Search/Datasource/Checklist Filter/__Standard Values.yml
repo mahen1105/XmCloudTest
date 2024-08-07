@@ -1,0 +1,159 @@
+﻿---
+ID: "fe8351bc-a44b-4cab-a2e7-f6154e116371"
+Parent: "6e188261-e572-4330-b88a-88c68b0926e7"
+Template: "6e188261-e572-4330-b88a-88c68b0926e7"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Checklist Filter/__Standard Values
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: Vis mindre
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[tom]"
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: Anden
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: Vis mere
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: Weniger anzeigen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[leer]"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: Sonstige
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: Mehr anzeigen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: Show Less
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140805T112637
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58419914-a2ef-470d-ad93-914ee7b14e86"
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[empty]"
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: Other
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: Show More
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: より少なく表示します
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[空白]"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: その他
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: 詳細を表示
+- Language: "zh-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: 显示较少
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[空]"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: 其他
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: 展示更多

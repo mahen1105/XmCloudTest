@@ -1,0 +1,37 @@
+﻿---
+ID: "91f71d8e-496a-48e6-a0e7-b490453c998a"
+Parent: "66a6c716-4456-466a-a99a-e4735a3f2b7c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/styles/component-title"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/91F71D8E496A48E6A0E7B490453C998A.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "91f71d8e-496a-48e6-a0e7-b490453c998a"
+  Value: LyogYnJlYWtwb2ludHMgKi8KLnRpdGxlIHsKICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsKfQoKLnRpdGxlIGgxLCAudGl0bGUgLmZpZWxkLXRpdGxlIGEgewogIC13ZWJraXQtYm9yZGVyLWltYWdlOiB1cmwoIi4uL2ltYWdlcy9ib3JkZXItc21hbGwucG5nIikgMTAlIHJlcGVhdCByZXBlYXQ7CiAgLW8tYm9yZGVyLWltYWdlOiB1cmwoIi4uL2ltYWdlcy9ib3JkZXItc21hbGwucG5nIikgMTAlIHJlcGVhdCByZXBlYXQ7CiAgYm9yZGVyLWltYWdlOiB1cmwoIi4uL2ltYWdlcy9ib3JkZXItc21hbGwucG5nIikgMTAlIHJlcGVhdCByZXBlYXQ7CiAgYm9yZGVyLWJvdHRvbS13aWR0aDogNHB4OwogIGJvcmRlci1zdHlsZTogc29saWQ7CiAgZm9udC1zaXplOiAyNHB4OwogIG1hcmdpbi1ib3R0b206IDEwcHg7CiAgY29sb3I6ICMwMDA7CiAgbGluZS1oZWlnaHQ6IDIwcHg7CiAgcGFkZGluZy1ib3R0b206IDEwcHg7CiAgZGlzcGxheTogYmxvY2s7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGN1cnNvcjogcG9pbnRlcjsKfQoKLm5vLWJvcmRlcmltYWdlIC50aXRsZSBoMSwgLm5vLWJvcmRlcmltYWdlIC50aXRsZSAuZmllbGQtdGl0bGUgYSB7CiAgYm9yZGVyOiAycHggc29saWQgIzAwMDsKfQoKLnRpdGxlIGgxOmhvdmVyLCAudGl0bGUgLmZpZWxkLXRpdGxlIGE6aG92ZXIgewogIGNvbG9yOiAjM2QzZDNkOwp9Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 691
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04cd2768-9f14-4ade-adc8-4abd4c98dcfc"

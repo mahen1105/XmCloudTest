@@ -1,0 +1,37 @@
+﻿---
+ID: "ac59657a-d8ab-4332-a156-01c2d9a61e5e"
+Parent: "3ebf012c-97a1-4c71-b296-3bc19fa5b47f"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/styles/component-link"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/AC59657AD8AB4332A15601C2D9A61E5E.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ac59657a-d8ab-4332-a156-01c2d9a61e5e"
+  Value: LyogYnJlYWtwb2ludHMgKi8KLmxpbmsgewogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogIC8qIGJyZWFrcG9pbnRzICovCiAgcGFkZGluZzogMTVweCAxNXB4IDE1cHggMTVweDsKICBmb250LXNpemU6IDEycHg7Cn0KCi5saW5rIGEgewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBmb250LXNpemU6IDEzcHg7CiAgY29sb3I6ICM1ZTVlNWU7Cn0KCi5saW5rIGE6aG92ZXIsIC5saW5rIGE6Zm9jdXMgewogIGNvbG9yOiAjNDc0NzQ3OwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKfQoKLmxpbmsgYS5idG4gewogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKfQoKLmxpbmsgPiAuY29tcG9uZW50LWNvbnRlbnQgewogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogIGNvbG9yOiAjOTY5Njk2OwogIGJvcmRlci1yYWRpdXM6IDVweDsKICBib3JkZXItd2lkdGg6IDFweDsKICBib3JkZXItc3R5bGU6IHNvbGlkOwogIGJvcmRlci1jb2xvcjogdHJhbnNwYXJlbnQ7Cn0KCi5saW5rID4gLmNvbXBvbmVudC1jb250ZW50IGEgewogIGNvbG9yOiBpbmhlcml0Owp9CgoubGluayA+IC5jb21wb25lbnQtY29udGVudCBhOmhvdmVyIHsKICBjb2xvcjogIzVlNWU1ZTsKfQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 641
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131734Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37ade67b-0684-431a-8114-7e8f60a6325d"

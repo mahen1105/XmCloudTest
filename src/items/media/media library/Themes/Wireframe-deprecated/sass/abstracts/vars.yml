@@ -1,0 +1,16 @@
+﻿---
+ID: "52cf8167-0014-4f29-bc42-ddd773d0e9a0"
+Parent: "38907664-56fb-4f7e-80b9-5d6b9cdab500"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/abstracts/vars"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170710T072824Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35000692-5f75-40f5-a1e8-6b07b984459f"

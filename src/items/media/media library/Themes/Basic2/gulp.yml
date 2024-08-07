@@ -1,0 +1,20 @@
+﻿---
+ID: "bdedd7fb-d2f4-43d2-b7e0-b74be082d4a9"
+Parent: "b43d07bd-61d5-448f-9323-8b6acad4f3c4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Basic2/gulp
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T065151Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb6921d9-132f-4b8d-8535-ca47f81a0c88"

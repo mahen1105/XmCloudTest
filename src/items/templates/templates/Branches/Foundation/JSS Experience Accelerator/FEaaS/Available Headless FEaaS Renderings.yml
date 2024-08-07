@@ -1,0 +1,20 @@
+﻿---
+ID: "50b59b25-cc93-4ffc-9a9d-d9e6ba101096"
+Parent: "dada13e2-b4f3-4bf1-a813-3a20676ef82b"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/FEaaS/Available Headless FEaaS Renderings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211026T075600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a82891e-5525-4f0f-beb3-9179e7798b71"

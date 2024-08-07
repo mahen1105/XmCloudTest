@@ -1,0 +1,20 @@
+﻿---
+ID: "4c8b8f78-0c70-4ca7-a666-6b51cebe1c76"
+Parent: "afffe929-7809-4e02-99e4-3023f3db7706"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Base Themes/Horizon Editing Theme/Images
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170216T082354Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7000b84-63c5-42e2-be4c-5e7089c54057"

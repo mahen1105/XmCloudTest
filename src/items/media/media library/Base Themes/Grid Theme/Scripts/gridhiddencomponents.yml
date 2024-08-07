@@ -1,0 +1,36 @@
+﻿---
+ID: "9016b561-bde0-479f-a707-bc61e39f4134"
+Parent: "9467ad95-3f9d-49ed-8388-63ad63df598f"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Grid Theme/Scripts/gridhiddencomponents
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9016B561BDE0479FA707BC61E39F4134.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9016b561-bde0-479f-a707-bc61e39f4134"
+  Value: 77u/aWYgKHR5cGVvZiAoJHhhKSAhPT0gInVuZGVmaW5lZCIpIHsNCiAgICAkeGEuZ3JpZGhpZGRlbmNvbXBvbmVudHMgPSAoZnVuY3Rpb24gKCRzYywgZG9jdW1lbnQpIHsNCiAgICAgICAgdmFyIGFwaSA9IHt9Ow0KICAgICAgICBpZiAoISRzYykgew0KICAgICAgICAgICAgcmV0dXJuOw0KICAgICAgICB9DQogICAgICAgIGFwaS5yZW1vdmUgPSBmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAkc2MoIiN3cmFwcGVyIikucmVtb3ZlQ2xhc3MoImdyaWQtc2hvdy1oaWRkZW4iKTsNCiAgICAgICAgfTsNCg0KICAgICAgICBhcGkuaW5pdCA9IGZ1bmN0aW9uIChjbGFzc2VzKSB7DQogICAgICAgICAgICAkc2MoIiN3cmFwcGVyIikuYWRkQ2xhc3MoImdyaWQtc2hvdy1oaWRkZW4iKTsNCiAgICAgICAgfTsNCg0KICAgICAgICByZXR1cm4gYXBpOw0KICAgIH0od2luZG93LiRzYywgZG9jdW1lbnQpKTsNCn0=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 455
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160509T085812Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d07111b-f02a-405f-86dc-ebbceda06861"

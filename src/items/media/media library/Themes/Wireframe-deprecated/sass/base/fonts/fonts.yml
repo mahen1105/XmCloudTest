@@ -1,0 +1,37 @@
+﻿---
+ID: "e40f7c23-247d-47b0-a24e-b012dc11748e"
+Parent: "32af9c87-7d77-4d04-8e81-377fbb5ef7af"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/base/fonts/fonts"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E40F7C23247D47B0A24EB012DC11748E.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e40f7c23-247d-47b0-a24e-b012dc11748e"
+  Value: QGZvbnQtZmFjZSB7DQogICAgZm9udC1mYW1pbHk6ICdCYWxzYW1pcSc7DQogICAgc3JjOiB1cmwoJy4uL2ZvbnRzL2JhbHNhbWlxL2JhbHNhbWlxc2Fuc2JvbGQtd2ViZm9udC53b2ZmJykgZm9ybWF0KCd3b2ZmJyksIHVybCgnLi4vZm9udHMvYmFsc2FtaXEvYmFsc2FtaXFTYW5zQm9sZC50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyk7DQogICAgZm9udC13ZWlnaHQ6IGJvbGQ7DQogICAgZm9udC1zdHlsZTogbm9ybWFsOw0KfQ0KDQpAZm9udC1mYWNlIHsNCiAgICBmb250LWZhbWlseTogJ0JhbHNhbWlxJzsNCiAgICBzcmM6IHVybCgnLi4vZm9udHMvYmFsc2FtaXEvYmFsc2FtaXFzYW5zYm9sZGl0YWxpYy13ZWJmb250LndvZmYnKSBmb3JtYXQoJ3dvZmYnKSwgdXJsKCcuLi9mb250cy9iYWxzYW1pcS9iYWxzYW1pcVNhbnNCb2xkSXRhbGljLnR0ZicpIGZvcm1hdCgndHJ1ZXR5cGUnKTsNCiAgICBmb250LXdlaWdodDogYm9sZDsNCiAgICBmb250LXN0eWxlOiBpdGFsaWM7DQp9DQoNCkBmb250LWZhY2Ugew0KICAgIGZvbnQtZmFtaWx5OiAnQmFsc2FtaXEnOw0KICAgIHNyYzogdXJsKCcuLi9mb250cy9iYWxzYW1pcS9iYWxzYW1pcXNhbnNpdGFsaWMtd2ViZm9udC53b2ZmJykgZm9ybWF0KCd3b2ZmJyksIHVybCgnLi4vZm9udHMvYmFsc2FtaXEvYmFsc2FtaXFTYW5zSXRhbGljLnR0ZicpIGZvcm1hdCgndHJ1ZXR5cGUnKTsNCiAgICBmb250LXdlaWdodDogbm9ybWFsOw0KICAgIGZvbnQtc3R5bGU6IGl0YWxpYzsNCn0NCg0KQGZvbnQtZmFjZSB7DQogICAgZm9udC1mYW1pbHk6ICdCYWxzYW1pcSc7DQogICAgc3JjOiB1cmwoJy4uL2ZvbnRzL2JhbHNhbWlxL2JhbHNhbWlxc2Fuc3JlZ3VsYXItd2ViZm9udC53b2ZmJykgZm9ybWF0KCd3b2ZmJyksIHVybCgnLi4vZm9udHMvYmFsc2FtaXEvYmFsc2FtaXFTYW5zUmVndWxhci50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyk7DQogICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsNCiAgICBmb250LXN0eWxlOiBub3JtYWw7DQp9DQoNCkBmb250LWZhY2Ugew0KICAgIGZvbnQtZmFtaWx5OiAnRm9udEF3ZXNvbWUnOw0KICAgIHNyYzogdXJsKCcuLi9mb250cy9mb250YXdlc29tZS9mb250YXdlc29tZS1lb3QuZW90Jyk7DQogICAgc3JjOiB1cmwoJy4uL2ZvbnRzL2ZvbnRhd2Vzb21lL2ZvbnRhd2Vzb21lLWVvdC5lb3Q/I2llZml4JykgZm9ybWF0KCdlbWJlZGRlZC1vcGVudHlwZScpLCB1cmwoJy4uL2ZvbnRzL2ZvbnRhd2Vzb21lL2ZvbnRhd2Vzb21lLXdvZmYud29mZicpIGZvcm1hdCgnd29mZicpLCB1cmwoJy4uL2ZvbnRzL2ZvbnRhd2Vzb21lL2ZvbnRhd2Vzb21lLXR0Zi50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyksIHVybCgnLi4vZm9udHMvZm9udGF3ZXNvbWUvZm9udGF3ZXNvbWUtc3ZnLnN2ZyNvcGVuc2FucycpIGZvcm1hdCgnc3ZnJyk7DQogICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsNCiAgICBmb250LXN0eWxlOiBub3JtYWw7DQp9DQoNCkBpbXBvcnQgIi4uL2ZvbnRhd2Vzb21lL2ZvbnQtYXdlc29tZS5zY3NzIjs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1511
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T130017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71220cfb-aece-4b81-9f58-bc5d8721d32f"

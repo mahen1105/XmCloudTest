@@ -1,0 +1,20 @@
+﻿---
+ID: "9467ad95-3f9d-49ed-8388-63ad63df598f"
+Parent: "b2808b2d-50fc-4d77-beab-2fda5f654b91"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Base Themes/Grid Theme/Scripts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170202T135652Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0720be60-9740-48c8-bd3c-b7c45f325ee8"

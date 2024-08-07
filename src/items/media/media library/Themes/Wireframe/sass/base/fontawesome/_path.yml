@@ -1,0 +1,37 @@
+﻿---
+ID: "4aacfedd-cbd8-4244-b2b4-0b8343198396"
+Parent: "65648be0-e9e7-4ab2-885a-be9f12743bf1"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/Wireframe/sass/base/fontawesome/_path
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/AEC49CCB6E3A4EAF9701B0E6B71E9A4A.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4aacfedd-cbd8-4244-b2b4-0b8343198396"
+  Value: LyogRk9OVCBQQVRICiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICovCgogQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdGb250QXdlc29tZSc7CiAgc3JjOiB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vZm9udGF3ZXNvbWUtd2ViZm9udC1lb3QuZW90P3Y9I3skZmEtdmVyc2lvbn0nKTsKICBzcmM6IHVybCgnI3skZmEtZm9udC1wYXRofS9mb250YXdlc29tZS13ZWJmb250LWVvdC5lb3Q/I2llZml4JnY9I3skZmEtdmVyc2lvbn0nKSBmb3JtYXQoJ2VtYmVkZGVkLW9wZW50eXBlJyksCiAgICB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vZm9udGF3ZXNvbWUtd2ViZm9udC13b2ZmMi53b2ZmMj92PSN7JGZhLXZlcnNpb259JykgZm9ybWF0KCd3b2ZmMicpLAogICAgdXJsKCcjeyRmYS1mb250LXBhdGh9L2ZvbnRhd2Vzb21lLXdlYmZvbnQtd29mZi53b2ZmP3Y9I3skZmEtdmVyc2lvbn0nKSBmb3JtYXQoJ3dvZmYnKSwKICAgIHVybCgnI3skZmEtZm9udC1wYXRofS9mb250YXdlc29tZS13ZWJmb250LXR0Zi50dGY/dj0jeyRmYS12ZXJzaW9ufScpIGZvcm1hdCgndHJ1ZXR5cGUnKSwKICAgIHVybCgnI3skZmEtZm9udC1wYXRofS9mb250YXdlc29tZS13ZWJmb250LXN2Zy5zdmc/dj0jeyRmYS12ZXJzaW9ufSNmb250YXdlc29tZXJlZ3VsYXInKSBmb3JtYXQoJ3N2ZycpOwovLyAgc3JjOiB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vRm9udEF3ZXNvbWUub3RmJykgZm9ybWF0KCdvcGVudHlwZScpOyAvLyB1c2VkIHdoZW4gZGV2ZWxvcGluZyBmb250cwogIGZvbnQtd2VpZ2h0OiBub3JtYWw7CiAgZm9udC1zdHlsZTogbm9ybWFsOwp9Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 811
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131224Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6c3bd90-d5ab-4342-abac-cddf69e85b01"

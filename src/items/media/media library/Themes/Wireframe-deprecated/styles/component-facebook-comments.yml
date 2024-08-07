@@ -1,0 +1,37 @@
+﻿---
+ID: "28bc4a64-4efc-4c2a-8e3b-d42cf088db1c"
+Parent: "66a6c716-4456-466a-a99a-e4735a3f2b7c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/styles/component-facebook-comments"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/28BC4A644EFC4C2A8E3BD42CF088DB1C.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "28bc4a64-4efc-4c2a-8e3b-d42cf088db1c"
+  Value: LmZhY2Vib29rLWNvbW1lbnRzIC5mYi1jb21tZW50cyB7CiAgd2lkdGg6IDEwMCU7Cn0KCi5mYWNlYm9vay1jb21tZW50cyAuZmItY29tbWVudHMgPiBzcGFuIHsKICB0ZXh0LWFsaWduOiBqdXN0aWZ5ICFpbXBvcnRhbnQ7CiAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDsKfQoKLmZhY2Vib29rLWNvbW1lbnRzIC5mYi1jb21tZW50cyA+IHNwYW4gPiBpZnJhbWUgewogIHdpZHRoOiAxMDAlICFpbXBvcnRhbnQ7Cn0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 234
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131719Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ff9f606-36c4-4d27-999a-adff5b1f30e4"

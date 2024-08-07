@@ -1,0 +1,20 @@
+﻿---
+ID: "131b0e01-90b3-45d7-baf5-91850c4cbe81"
+Parent: "76e586ad-4220-47b6-b549-bcd78a77b874"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Base Themes/XA API/Scripts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170703T134057Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40c46073-4c6c-4484-8e77-f236d8c3a47f"

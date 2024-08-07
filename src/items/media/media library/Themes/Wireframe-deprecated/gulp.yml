@@ -1,0 +1,16 @@
+﻿---
+ID: "55891b69-830f-4cd7-8571-f1de6ee26616"
+Parent: "3f46272c-f3b8-4913-8c00-3816b436a4d3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/gulp"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T124901Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "079bc508-22be-47d5-a127-66bdcfbbc523"

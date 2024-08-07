@@ -1,0 +1,37 @@
+﻿---
+ID: "86786be1-7aff-4fa6-84ee-d8196e2284c5"
+Parent: "cbf7de9b-bb7a-47f2-a3aa-0a6ed583c6eb"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/styles/tabs/tabs-vertical-right"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/86786BE17AFF4FA684EED8196E2284C5.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "86786be1-7aff-4fa6-84ee-d8196e2284c5"
+  Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL21peGlucyI7DQoudGFicy50YWJzLXZlcnRpY2FsIHsNCiAgICAmLnRhYnMtdmVydGljYWwtcmlnaHQgew0KICAgICAgICAudGFicy1pbm5lciB7DQogICAgICAgICAgICBkaXNwbGF5OiBmbGV4Ow0KICAgICAgICB9DQogICAgICAgIC50YWJzLWhlYWRpbmcgew0KICAgICAgICAgICAgb3JkZXI6IDI7DQogICAgICAgICAgICBtYXJnaW4tbGVmdDogMDsNCiAgICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKDAsIDApOw0KICAgICAgICAgICAgbGkgew0KICAgICAgICAgICAgICAgIEBpbmNsdWRlIGJhc2ljLWJvcmRlcihhbGwsICR0YWItY29udGFpbmVyLWJvcmRlcik7DQogICAgICAgICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKC0xcHgpOw0KICAgICAgICAgICAgICAgICY6Zmlyc3QtY2hpbGQgew0KICAgICAgICAgICAgICAgICAgICBib3JkZXItcmFkaXVzOiAwIDNweCAwIDA7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgICAgICY6bGFzdC1jaGlsZCB7DQogICAgICAgICAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDAgMCAzcHggMDsNCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAgJi5hY3RpdmUgew0KICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSBiYXNpYy1ib3JkZXIobGVmdCx0cmFuc3BhcmVudCk7DQogICAgICAgICAgICAgICAgICAgIGJvcmRlci1yaWdodC1jb2xvcjokdGFiLWNvbnRhaW5lci1ib3JkZXI7DQogICAgICAgICAgICAgICAgICAgIGJvcmRlci1sZWZ0LXdpZHRoOiAwOw0KICAgICAgICAgICAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTFweCk7DQogICAgICAgICAgICAgICAgICAgIGEgew0KICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiBub25lOw0KICAgICAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgICAgLnRhYnMtY29udGFpbmVyIHsNCiAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDNweCAwIDAgM3B4Ow0KICAgICAgICB9DQoNCiAgICB9DQp9
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1095
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131439Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76ab94cb-4798-4109-8c9c-e9c48c480f28"

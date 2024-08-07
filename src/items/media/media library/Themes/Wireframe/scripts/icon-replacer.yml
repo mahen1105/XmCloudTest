@@ -1,0 +1,33 @@
+﻿---
+ID: "deeaad07-ecbd-460f-b383-692a44e8c965"
+Parent: "25187bad-eb37-45c4-a511-be5bd6a01262"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/scripts/icon-replacer"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DEEAAD07ECBD460FB383692A44E8C965.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "deeaad07-ecbd-460f-b383-692a44e8c965"
+  Value: WEEuY29tcG9uZW50LmlyZXBsYWNlciA9IChmdW5jdGlvbigkKSB7DQogICAgdmFyIGFwaSA9IHt9LA0KICAgICAgICBlbXB0eUltYWdlU2VsZWN0b3IgPSAiLmZpZWxkLW1vdmlldGh1bWJuYWlsIGEiOw0KDQogICAgdmFyIGdldENvbXBvbmVudE5hbWUgPSBmdW5jdGlvbigkZW1wdHlJbWFnZSkgew0KICAgICAgICB2YXIgY29tcG9uZW50Um9vdCA9ICRlbXB0eUltYWdlLmNsb3Nlc3QoIi5jb21wb25lbnQiKTsNCiAgICAgICAgcmV0dXJuIGNvbXBvbmVudFJvb3QuYXR0cigiY2xhc3MiKS5zcGxpdCgiICIpWzFdOw0KICAgIH07DQoNCiAgICB2YXIgZ2V0SW1hZ2VDb250ZW50ID0gZnVuY3Rpb24oY29tcG9uZW50TmFtZSkgew0KICAgICAgICB2YXIgZGl2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiZGl2Iik7DQogICAgICAgIGRpdi5jbGFzc05hbWUgPSBbInN4YS1pY29uIiwgInN4YS1pY29uLSIgKyBjb21wb25lbnROYW1lXS5qb2luKCIgIik7DQogICAgICAgIHJldHVybiBkaXY7DQogICAgfTsNCg0KICAgIHZhciBhZGROZXdJY29uID0gZnVuY3Rpb24oJGVtcHR5SW1hZ2UpIHsNCiAgICAgICAgdmFyIHBhcmVudCA9ICRlbXB0eUltYWdlLnBhcmVudCgpLA0KICAgICAgICAgICAgY29tcG9uZW50TmFtZSA9IGdldENvbXBvbmVudE5hbWUoJGVtcHR5SW1hZ2UpLA0KICAgICAgICAgICAgbmV3SWNvbiA9IGdldEltYWdlQ29udGVudChjb21wb25lbnROYW1lKTsNCiAgICAgICAgcGFyZW50LmFwcGVuZChuZXdJY29uKTsNCiAgICB9Ow0KICAgIGFwaS5yZXBsYWNlSWNvbiA9IGZ1bmN0aW9uKGVsZW0pIHsNCiAgICAgICAgdmFyICRlbXB0eUltYWdlID0gJChlbGVtKS5maW5kKGVtcHR5SW1hZ2VTZWxlY3Rvcik7DQogICAgICAgIGFkZE5ld0ljb24oJGVtcHR5SW1hZ2UpOw0KICAgIH07DQoNCiAgICByZXR1cm4gYXBpOw0KfSkoalF1ZXJ5LCBfKTsNCg0KWEEucmVnaXN0ZXIoImlyZXBsYWNlciIsIFhBLmNvbXBvbmVudC5pcmVwbGFjZXIpOw0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 993
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180718T083322Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be3f1b3b-e3a0-48ea-84d8-e344236382fe"

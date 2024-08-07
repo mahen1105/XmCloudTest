@@ -1,0 +1,33 @@
+﻿---
+ID: "a81e35a0-7708-4748-9d43-54d7eb17cafa"
+Parent: "25187bad-eb37-45c4-a511-be5bd6a01262"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/scripts/component-video-playlist"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A81E35A0770847489D4354D7EB17CAFA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a81e35a0-7708-4748-9d43-54d7eb17cafa"
+  Value: WEEuY29tcG9uZW50LnBsYXlsaXN0ICYmDQogICAgWEEuY29tcG9uZW50LnBsYXlsaXN0LmluaXRJbnN0YW5jZSAmJg0KICAgIChYQS5jb21wb25lbnQucGxheWxpc3QuaW5pdEluc3RhbmNlID0gKGZ1bmN0aW9uKGZ1bmMsICQpIHsNCiAgICAgICAgdmFyIGJlZm9yZUluaXRTY3JpcHQgPSBmdW5jdGlvbihjb21wb25lbnQpIHsNCiAgICAgICAgICAgIHZhciByZXBsYWNlciA9IFhBLmNvbXBvbmVudC5pcmVwbGFjZXI7DQogICAgICAgICAgICByZXBsYWNlci5yZXBsYWNlSWNvbihjb21wb25lbnQpOw0KICAgICAgICB9Ow0KDQogICAgICAgIHZhciBhZnRlckluaXRTY3JpcHQgPSBmdW5jdGlvbigpIHt9Ow0KDQogICAgICAgIHJldHVybiBmdW5jdGlvbihjb21wb25lbnQsIHByb3ApIHsNCiAgICAgICAgICAgIHRyeSB7DQogICAgICAgICAgICAgICAgYmVmb3JlSW5pdFNjcmlwdChjb21wb25lbnQsIHByb3ApOw0KICAgICAgICAgICAgfSBjYXRjaCAoZSkgew0KICAgICAgICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1jb25zb2xlDQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZSk7DQogICAgICAgICAgICB9DQogICAgICAgICAgICB2YXIgYW5zd2VyID0gZnVuYy5hcHBseSh0aGlzLCBbY29tcG9uZW50LCBwcm9wXSk7DQogICAgICAgICAgICB0cnkgew0KICAgICAgICAgICAgICAgIGFmdGVySW5pdFNjcmlwdChjb21wb25lbnQsIHByb3ApOw0KICAgICAgICAgICAgfSBjYXRjaCAoZSkgew0KICAgICAgICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1jb25zb2xlDQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZSk7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIHJldHVybiBhbnN3ZXI7DQogICAgICAgIH07DQogICAgfSkoWEEuY29tcG9uZW50LnBsYXlsaXN0LmluaXRJbnN0YW5jZSwgalF1ZXJ5KSk7DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 953
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180718T082934Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec36ad9a-2f0e-4342-9a55-dfe933e4646a"

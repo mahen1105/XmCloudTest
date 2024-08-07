@@ -1,0 +1,37 @@
+﻿---
+ID: "616e8edb-c6ba-49c1-9897-7492e5a69e80"
+Parent: "6f80a89e-5e4c-42ec-b458-1ba742578ba2"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/Wireframe/sass/base/fonts/fonts
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/616E8EDBC6BA49C198977492E5A69E80.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "616e8edb-c6ba-49c1-9897-7492e5a69e80"
+  Value: QGZvbnQtZmFjZSB7DQogICAgZm9udC1mYW1pbHk6ICdGb250QXdlc29tZSc7DQogICAgc3JjOiB1cmwoJy4uL2ZvbnRzL2ZvbnRhd2Vzb21lL2ZvbnRhd2Vzb21lLWVvdC5lb3QnKTsNCiAgICBzcmM6IHVybCgnLi4vZm9udHMvZm9udGF3ZXNvbWUvZm9udGF3ZXNvbWUtZW90LmVvdD8jaWVmaXgnKSBmb3JtYXQoJ2VtYmVkZGVkLW9wZW50eXBlJyksIHVybCgnLi4vZm9udHMvZm9udGF3ZXNvbWUvZm9udGF3ZXNvbWUtd29mZi53b2ZmJykgZm9ybWF0KCd3b2ZmJyksIHVybCgnLi4vZm9udHMvZm9udGF3ZXNvbWUvZm9udGF3ZXNvbWUtdHRmLnR0ZicpIGZvcm1hdCgndHJ1ZXR5cGUnKSwgdXJsKCcuLi9mb250cy9mb250YXdlc29tZS9mb250YXdlc29tZS1zdmcuc3ZnI29wZW5zYW5zJykgZm9ybWF0KCdzdmcnKTsNCiAgICBmb250LXdlaWdodDogbm9ybWFsOw0KICAgIGZvbnQtc3R5bGU6IG5vcm1hbDsNCn0NCg0KQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1PcGVuK1NhbnM6MzAwLDMwMGksNDAwLDQwMGksNjAwLDYwMGksNzAwLDcwMGksODAwLDgwMGkmc3Vic2V0PWN5cmlsbGljLGN5cmlsbGljLWV4dCxncmVlayxncmVlay1leHQsbGF0aW4tZXh0LHZpZXRuYW1lc2UnKTsNCkBpbXBvcnQgIi4uL2ZvbnRhd2Vzb21lL2ZvbnQtYXdlc29tZS5zY3NzIjs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 683
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T130017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6b74c44-e606-4777-b891-8b2e790f5e84"

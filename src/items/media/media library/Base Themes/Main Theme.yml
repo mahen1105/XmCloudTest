@@ -1,0 +1,27 @@
+﻿---
+ID: "9c1d66b3-6828-4759-9eec-d68a7a2ce248"
+Parent: "d907e0e1-f1ad-4614-9166-ef14183fe03b"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
+Path: /sitecore/media library/Base Themes/Main Theme
+SharedFields:
+- ID: "1123bac0-6b46-4faa-b684-8423c13e4004"
+  Hint: CompositeLayout
+  Value: "{837FB415-3A7C-41EA-822C-F4D742A840AA}"
+- ID: "e0367cd6-e333-4625-9993-baa4f1c0c92b"
+  Hint: BaseLayout
+  Value: "{76E586AD-4220-47B6-B549-BCD78A77B874}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Theme
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160429T112543Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e566d7d-c9b2-4822-a6db-7894acdc96d2"

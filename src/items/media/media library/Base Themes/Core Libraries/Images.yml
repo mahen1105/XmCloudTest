@@ -1,0 +1,16 @@
+﻿---
+ID: "5a2c86c9-da82-4ed4-8996-d49bb0a5560c"
+Parent: "05bfbcdf-4da5-414a-8651-a221ab3f5f0f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Base Themes/Core Libraries/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170510T065857Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3244a247-3aa6-4d74-98c4-5028dae4a2d1"

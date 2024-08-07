@@ -1,0 +1,40 @@
+﻿---
+ID: "4eed3ea2-a6b0-4ec6-8631-56e3c75eea0b"
+Parent: "dfcbfa5a-2e37-418a-adb7-f411ecae89a9"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Base Themes/SearchTheme/Scripts/component-search"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/4EED3EA2A6B04EC6863156E3C75EEA0B.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4eed3ea2-a6b0-4ec6-8631-56e3c75eea0b"
+  Value: LyoqDQoqIEB0eXBlZGVmIHt9IEZhY2V0RGF0YVJlcXVlc3RJbmZvIHJlcXVlc3RzIGRhdGEgZnJvbSBlYWNoIGZhY2V0IGNvbXBvbmVudCBzdG9yZWQgaW4gb2JqZWN0DQoqIEBwcm9wZXJ0eSB7U3RyaW5nfSBzaWduYXR1cmUgLSBzaWduYXR1cmUgb2YgZmFjZXQNCiogQHByb3BlcnR5IHtTdHJpbmd9IGZhY2V0TmFtZSAtIGZhY2V0IG5hbWUNCiogQHByb3BlcnR5IHtTdHJpbmd9IGVuZHBvaW50IC0gZW5kcG9pbnQgcHJvcGVydHkNCiogQHByb3BlcnR5IHtCb29sZWFufSBmaWx0ZXJXaXRob3V0TWUgLSBzaG91bGQgdGhpcyBmaWx0ZXIgYmUgYSBwYXJ0IG9mIGZpbHRlcmluZyBwcm9jZXNzDQoqLw0KLyoqDQoqIEB0eXBlZGVmIHtPYmplY3R9IGZhY2V0UmVxdWVzdERhdGEgcmVxdWVzdHMgZGF0YSBmcm9tIGVhY2ggZmFjZXQgY29tcG9uZW50IHN0b3JlZCBpbiBvYmplY3QNCiogQHByb3BlcnR5IHtTdHJpbmd9IGVuZHBvaW50IC0gZW5kcG9pbnQgcHJvcGVydHkNCiogQHByb3BlcnR5IHtPYmplY3R9IGRhdGEgLSBsaXN0IG9mIGZhY2V0IG5hbWVzIGJhc2VkIG9uIHNpZ25hdHVyZQ0KKi8NCi8qKg0KICogQG5hbWVzcGFjZSBYQS5jb21wb25lbnQuc2VhcmNoDQogKi8NClhBLmNvbXBvbmVudC5zZWFyY2ggPSB7fTsNClhBLmNvbXBvbmVudC5zZWFyY2guZmFjZXQgPSB7fTsNClhBLmNvbXBvbmVudC5zZWFyY2gucmVzdWx0cyA9IHt9Ow0KDQovKioNCiAqIEBuYW1lc3BhY2UgWEEuY29tcG9uZW50LnNlYXJjaC52ZW50DQogKi8NCi8qKg0KKiBGaXJlZCB3aGVuIGhhc2ggY2hhbmdlZA0KKiBAZXZlbnQgWEEuY29tcG9uZW50LnNlYXJjaC52ZW50I2hhc2hDaGFuZ2VkDQoqIEB0eXBlIHtvYmplY3R9DQoqLw0KLyoqDQoqIEZpcmVkIGFmdGVyIHJlc3BvbnNlIGZyb20gc2VydmVyIHdpdGggZmlsdGVyZWQgZmFjZXQgZGF0YQ0KKiBAZXZlbnQgWEEuY29tcG9uZW50LnNlYXJjaC52ZW50I2ZhY2V0LWRhdGEtbG9hZGVkDQoqIEB0eXBlIHtvYmplY3R9DQoqLw0KLyoqDQoqIEZpcmVkIGFmdGVyIHJlc3BvbnNlIGZyb20gc2VydmVyIHdpdGggZmlsdGVyZWQgZmFjZXQgZGF0YQ0KKiBAZXZlbnQgWEEuY29tcG9uZW50LnNlYXJjaC52ZW50I2ZhY2V0LWRhdGEtZmlsdGVyZWQNCiogQHR5cGUge29iamVjdH0NCiovDQovKioNCiogRmlyZWQgYWZ0ZXIgcmVzcG9uc2UgZnJvbSBzZXJ2ZXIgd2l0aCBmaWx0ZXJlZCBwYXJ0aWFsIGZhY2V0IGRhdGENCiogQGV2ZW50IFhBLmNvbXBvbmVudC5zZWFyY2gudmVudCNmYWNldC1kYXRhLXBhcnRpYWwtZmlsdGVyZWQNCiogQHR5cGUge29iamVjdH0NCiovDQovKioNCiogRmlyZWQgYnkgbG9hZCBtb3JlIGNvbXBvbmVudA0KKiBAZXZlbnQgWEEuY29tcG9uZW50LnNlYXJjaC52ZW50I2xvYWRNb3JlDQoqIEB0eXBlIHtvYmplY3R9DQoqLw0KWEEuY29tcG9uZW50LnNlYXJjaC52ZW50ID0gXy5leHRlbmQoe30sIEJhY2tib25lLkV2ZW50cyk7DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1463
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160728T134136Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c661677f-00ff-49b0-b314-37ac65eb190e"

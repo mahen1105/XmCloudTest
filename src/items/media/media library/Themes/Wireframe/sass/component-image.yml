@@ -1,0 +1,37 @@
+﻿---
+ID: "06e8d90c-e4de-423c-a513-b61b50e693cb"
+Parent: "32d44b57-6728-49ce-9f06-3024ade1587e"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/component-image"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/06E8D90CE4DE423CA513B61B50E693CB.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "06e8d90c-e4de-423c-a513-b61b50e693cb"
+  Value: QGltcG9ydCAiYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiYWJzdHJhY3RzL21peGlucyI7DQouaW1hZ2Ugew0KICAgIEBpbmNsdWRlIGJhc2ljLXBhZGRpbmcoKTsNCiAgICA+LmNvbXBvbmVudC1jb250ZW50IHsNCiAgICAgICAgQGluY2x1ZGUgYmFzaWMtc3R5bGVzKCRpbWFnZS1iZywgJGltYWdlLWNvbG9yKTsNCiAgICAgICAgQGluY2x1ZGUgYmFzaWMtYm9yZGVyKCRpbWFnZS1ib3JkZXIpOw0KICAgICAgICBhIHsNCiAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsNCiAgICAgICAgICAgIG1heC13aWR0aDogMTAwJTsNCiAgICAgICAgICAgIHdpZHRoOiAxMDAlOw0KICAgICAgICAgICAgaW1nIHsNCiAgICAgICAgICAgICAgICBtYXgtd2lkdGg6IDEwMCU7DQogICAgICAgICAgICAgICAgaGVpZ2h0OiBhdXRvOw0KICAgICAgICAgICAgICAgIHdpZHRoOiAxMDAlOw0KICAgICAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgICAgICAuaW1hZ2UtY2FwdGlvbiB7DQogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsNCiAgICAgICAgICAgIGZvbnQtc2l6ZTogJGZvbnQtc2l6ZS14LXNtYWxsOw0KICAgICAgICAgICAgY29sb3I6ICRpbWFnZS1jb2xvcjsNCiAgICAgICAgICAgIHBhZGRpbmc6ICRkZWZhdWx0LXBhZGRpbmcgJGRlZmF1bHQtcGFkZGluZyAwIDA7DQogICAgICAgIH0NCiAgICB9DQp9DQoNCkBpbXBvcnQgInN0eWxlcy9pbWFnZS8qIjs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 752
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4afe7b6-84b2-4363-868d-f29c81b8fbd3"

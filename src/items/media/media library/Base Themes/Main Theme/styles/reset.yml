@@ -1,0 +1,33 @@
+﻿---
+ID: "f0f1df13-65ee-4d49-8883-06826e26b26f"
+Parent: "39173a8c-80ca-4793-9e6e-40ea5c0593e0"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Main Theme/styles/reset
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F0F1DF1365EE4D49888306826E26B26F.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f0f1df13-65ee-4d49-8883-06826e26b26f"
+  Value: aHRtbCwgYm9keSwgZGl2LCBzcGFuLCBhcHBsZXQsIG9iamVjdCwgaWZyYW1lLA0KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiwgcCwgYmxvY2txdW90ZSwgcHJlLA0KYSwgYWJiciwgYWNyb255bSwgYWRkcmVzcywgYmlnLCBjaXRlLCBjb2RlLA0KZGVsLCBkZm4sIGZvbnQsIGltZywgaW5zLCBrYmQsIHEsIHMsIHNhbXAsDQpzbWFsbCwgc3RyaWtlLCBzdHJvbmcsIHN1Yiwgc3VwLCB0dCwgdmFyLA0KZGwsIGR0LCBkZCwgb2wsIHVsLCBsaSwNCmZpZWxkc2V0LCBmb3JtLCBsYWJlbCwgbGVnZW5kLA0KdGFibGUsIGNhcHRpb24sIHRib2R5LCB0Zm9vdCwgdGhlYWQsIHRyLCB0aCwgdGQgew0KCW1hcmdpbjogMDsNCglwYWRkaW5nOiAwOw0KCWJvcmRlcjogMDsNCglvdXRsaW5lOiAwOw0KCWZvbnQtd2VpZ2h0OiBpbmhlcml0Ow0KCWZvbnQtc3R5bGU6IGluaGVyaXQ7DQoJZm9udC1zaXplOiAxMDAlOw0KCWZvbnQtZmFtaWx5OiBpbmhlcml0Ow0KCXZlcnRpY2FsLWFsaWduOiBiYXNlbGluZTsNCn0NCmh0bWwgew0KICAgIGhlaWdodDogMTAwJTsNCn0NCmVtIHsNCgltYXJnaW46IDA7DQoJcGFkZGluZzogMDsNCglib3JkZXI6IDA7DQoJb3V0bGluZTogMDsNCglmb250LXdlaWdodDogaW5oZXJpdDsNCglmb250LXNpemU6IDEwMCU7DQoJZm9udC1mYW1pbHk6IGluaGVyaXQ7DQoJdmVydGljYWwtYWxpZ246IGJhc2VsaW5lOw0KfQ0KDQo6Zm9jdXMgew0KCW91dGxpbmU6IDA7DQp9DQpib2R5IHsNCglsaW5lLWhlaWdodDogMTsNCgljb2xvcjogYmxhY2s7DQoJYmFja2dyb3VuZDogd2hpdGU7DQoJZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCXBvc2l0aW9uOiByZWxhdGl2ZTsNCglvdmVyZmxvdzogYXV0bzsNCiAgICBoZWlnaHQ6IDEwMCU7DQp9DQpvbCwgdWwgew0KCWxpc3Qtc3R5bGU6IG5vbmU7DQp9DQp0YWJsZSB7DQoJYm9yZGVyLWNvbGxhcHNlOiBzZXBhcmF0ZTsNCglib3JkZXItc3BhY2luZzogMDsNCn0NCmNhcHRpb24sIHRoLCB0ZCB7DQoJdGV4dC1hbGlnbjogbGVmdDsNCglmb250LXdlaWdodDogbm9ybWFsOw0KfQ0KYmxvY2txdW90ZTpiZWZvcmUsIGJsb2NrcXVvdGU6YWZ0ZXIsDQpxOmJlZm9yZSwgcTphZnRlciB7DQoJY29udGVudDogIiI7DQp9DQpibG9ja3F1b3RlLCBxIHsNCglxdW90ZXM6ICIiICIiOw0KfQ0Kc3ViIHsNCgl2ZXJ0aWNhbC1hbGlnbjogc3ViOw0KCWZvbnQtc2l6ZTogMC45ZW07DQp9DQoNCnN1cCB7DQoJdmVydGljYWwtYWxpZ246IHN1cGVyOw0KCWZvbnQtc2l6ZTogMC45ZW07DQp9
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1296
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160706T090956Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "caf44eff-8269-4085-aa00-7fb5769bf0b7"

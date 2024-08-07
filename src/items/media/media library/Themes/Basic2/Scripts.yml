@@ -1,0 +1,20 @@
+﻿---
+ID: "1a88b3e5-4850-42fd-a3bd-1b86c2b365a9"
+Parent: "b43d07bd-61d5-448f-9323-8b6acad4f3c4"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Themes/Basic2/Scripts
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180306T125740Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb34b4cf-a895-43b3-9867-b216fa2e8855"

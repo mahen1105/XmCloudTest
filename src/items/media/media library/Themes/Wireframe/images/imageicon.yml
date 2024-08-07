@@ -1,0 +1,42 @@
+﻿---
+ID: "1c20f820-cfd3-4bd0-af77-a18fb0eab8eb"
+Parent: "e8afb1e6-973f-42f5-8ada-c64e78e3f149"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Wireframe/images/imageicon
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1C20F820CFD34BD0AF77A18FB0EAB8EB.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 56
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1c20f820-cfd3-4bd0-af77-a18fb0eab8eb"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADgAAAAoCAAAAACOO2ZZAAAACXBIWXMAAAsTAAALEwEAmpwYAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAB40lEQVR42mL8z0AeAAggJjL1MQAEENkaAQKIbI0AAUS2RoAAIlsjQACRrREggMjWCBBAZGsECCCyNQIEENkaAQKICI0/sIoCBBBhjV+e/MQmDBBABDX+ePf/zW8s4gABREjj/48/Gb59xCIBEECENH74BCQ+fsKUAAggAhohlv37iOlNgADCr/HPR4j3fnzEyO8AAYSp8e9zhKIPX6CMj5/RlQEEEIbG/y++vIaxv3+AC79GD1mAAMLQ+O4bw0eo+l9vEXb/e/MXVR1AAKFrBGuCuvDjd+R0gBayAAGEpvHbh39A8vcHUCh+RIk+xo9fUVQCBBCqxl8ffkE99w8jJGEhDAUAAcSE5kFGCOPTB4a36HH37QMyDyCAGJGN/fAGFKwQNi9KBEDMk+JCiAAEELKNn98j1DBg0cfwDskRAAGEpPHHh7/IqpC0wUR+IIUsQAAhNP758BOukBGbNiDzEyKgAQIIoREluOF6GVHt/wSPWoAAYkKKeUY0BzKiWg2S//XpH5QDEEAwjV8/YPMdpk+/wBwLEEBQjT8//sHiMCwBy/DpG4QGCCCIxn9wt+PSChf++wlsBQNAAEESwL+fJJSobMwgEiCAGMmtygECiOySHCCAyNYIEEBkawQIILI1AgQYAH58h6qxuQK+AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 621
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 56 x 40
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180627T123713Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "356343f5-3594-451a-83c0-fe063340cb97"

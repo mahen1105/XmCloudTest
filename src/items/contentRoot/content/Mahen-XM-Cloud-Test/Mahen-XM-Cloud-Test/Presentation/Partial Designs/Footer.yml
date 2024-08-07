@@ -1,0 +1,97 @@
+﻿---
+ID: "e08096d2-3f51-4c32-a5c2-b4c5d132ae3a"
+Parent: "7163a8b0-9954-4ba7-8363-aaaa19afa12a"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/Mahen-XM-Cloud-Test/Mahen-XM-Cloud-Test/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{723500B2-F68A-47C3-976D-7E39CCDB893B}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5F85CE82-B341-4477-8323-F35D6433980E}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b06A192A6-4FFA-475E-9A49-3E3757A52B9B%7d%7c%7bC03DDD0C-7C52-497D-A207-8EE3C384D8A5%7d%7c%7b7ED75C86-6EA0-4712-960C-0A8DB57F1932%7d%7c%7b50BA9BE6-0ECF-4316-84B5-E873F14FD1C1%7d%7c%7bF29A911F-E68C-48E4-9980-66A65DBFF6E1%7d%7c%7b30EBF573-9E96-468B-AD0F-C29500CD8D07%7d%7c%7bF079AB47-4B4C-4465-AC03-6A1E09C92A43%7d%7c%7bE334F67B-AF74-4FCF-A20D-C9A46D983B2B%7d%7c%7bE4F0E1CE-678E-4057-AA85-0DB7CAE5B014%7d%7c%7bB47B71C8-F8A4-462C-8D36-D966EDECB121%7d%7c%7b07C7E0BA-F938-4564-8B79-83DDBE60498A%7d%7c%7b4CF90996-8C89-449F-8100-3E3252EE251F%7d%7c%7bF772CEE2-2B4C-462E-92F3-963968088D29%7d%7c%7b32859F8A-EE9A-42F9-85E4-9682985A9F8C%7d%7c%7bDD42DCC6-B0B3-47DD-BD22-56A05C9176C4%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{8372ECBC-8AF8-4B28-94CE-71064A116EAB}"
+          p:after="r[@uid='{5F85CE82-B341-4477-8323-F35D6433980E}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bEC2B39C8-5CCA-4907-859A-C78C3F197329%7d&amp;FieldNames=%7b7A3BD2C5-AD93-4B77-8FF5-BD80D5B34237%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{293D5217-9DAB-4C00-BAD5-6EE4C4019423}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bEC2B39C8-5CCA-4907-859A-C78C3F197329%7d&amp;FieldNames=%7b7A3BD2C5-AD93-4B77-8FF5-BD80D5B34237%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T123020Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0edb573a-7446-4c37-b98b-c95715e7ac7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T150403Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T123020Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "147c2c1f-b0a3-4ad0-bd16-77a76f1105ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T150405Z

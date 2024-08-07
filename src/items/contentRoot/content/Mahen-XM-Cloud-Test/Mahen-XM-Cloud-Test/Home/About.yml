@@ -1,0 +1,99 @@
+﻿---
+ID: "dec9a07f-46a7-4f1b-80b0-19363dbe5911"
+Parent: "ec93bdfc-b6e5-4cd4-8462-52bd3b3fc90e"
+Template: "9860a62e-ea7c-4eff-9cb5-6ca5780aecb2"
+Path: "/sitecore/content/Mahen-XM-Cloud-Test/Mahen-XM-Cloud-Test/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{586ADB26-7059-4E33-8FA0-449832639946}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AA00527F-E932-44AD-AEFC-DCB2A9AC0D36}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b7ED75C86-6EA0-4712-960C-0A8DB57F1932%7d%7c%7b50BA9BE6-0ECF-4316-84B5-E873F14FD1C1%7d%7c%7bF29A911F-E68C-48E4-9980-66A65DBFF6E1%7d%7c%7b30EBF573-9E96-468B-AD0F-C29500CD8D07%7d%7c%7bF079AB47-4B4C-4465-AC03-6A1E09C92A43%7d%7c%7bE334F67B-AF74-4FCF-A20D-C9A46D983B2B%7d%7c%7bE4F0E1CE-678E-4057-AA85-0DB7CAE5B014%7d%7c%7bB47B71C8-F8A4-462C-8D36-D966EDECB121%7d%7c%7b07C7E0BA-F938-4564-8B79-83DDBE60498A%7d%7c%7b4CF90996-8C89-449F-8100-3E3252EE251F%7d%7c%7bF772CEE2-2B4C-462E-92F3-963968088D29%7d%7c%7b32859F8A-EE9A-42F9-85E4-9682985A9F8C%7d%7c%7bDD42DCC6-B0B3-47DD-BD22-56A05C9176C4%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{C5A4C718-11C6-4A30-A8C6-F2DB64CC57F0}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b7A3BD2C5-AD93-4B77-8FF5-BD80D5B34237%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T123019Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b19bc659-2fdf-40af-ba98-c8aca7d79fca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d753763a-975a-4087-9b70-40423d12c18d"
+      Hint: Title
+      Value: About
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T123028Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T123019Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef1c0e6f-9dab-48fb-ab63-26280ebb690c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d753763a-975a-4087-9b70-40423d12c18d"
+      Hint: Title
+      Value: About
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T150359Z

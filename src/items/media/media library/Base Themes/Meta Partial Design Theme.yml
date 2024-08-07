@@ -1,0 +1,33 @@
+﻿---
+ID: "a143db06-a44f-45cc-b6cc-3c61a4a0cadd"
+Parent: "d907e0e1-f1ad-4614-9166-ef14183fe03b"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
+Path: /sitecore/media library/Base Themes/Meta Partial Design Theme
+SharedFields:
+- ID: "1123bac0-6b46-4faa-b684-8423c13e4004"
+  Hint: CompositeLayout
+  Value: 
+- ID: "e0367cd6-e333-4625-9993-baa4f1c0c92b"
+  Hint: BaseLayout
+  Value: |
+    {05BFBCDF-4DA5-414A-8651-A221AB3F5F0F}
+    {9C1D66B3-6828-4759-9EEC-D68A7A2CE248}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Meta Partial Design Theme
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160705T120723Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77aa2c82-9ced-4122-a56b-775e515e641f"

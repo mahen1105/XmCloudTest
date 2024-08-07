@@ -1,0 +1,16 @@
+﻿---
+ID: "1de80244-f0c9-4adb-9972-42bbdb5c6252"
+Parent: "34c38ec6-d380-4bb0-93ab-52f08aecfbfa"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Events/Default Event List Variant/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d3599f3-ac16-4264-b269-46360506afce"

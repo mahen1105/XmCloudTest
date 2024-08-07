@@ -1,0 +1,35 @@
+﻿---
+ID: "837fb415-3a7c-41ea-822c-f4d742a840aa"
+Parent: "d907e0e1-f1ad-4614-9166-ef14183fe03b"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
+Path: /sitecore/media library/Base Themes/Composite Theme
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "e0367cd6-e333-4625-9993-baa4f1c0c92b"
+  Hint: BaseLayout
+  Value: |
+    {05BFBCDF-4DA5-414A-8651-A221AB3F5F0F}
+    {9C1D66B3-6828-4759-9EEC-D68A7A2CE248}
+    {DF95EF99-4AFB-4E59-A341-2CC147120344}
+    {06401E9B-A3C5-4EB1-A8BA-A66658E157BC}
+    {1FF2E882-18C3-4FF3-8B1A-736ECA929C5F}
+    {C7F3C097-9A71-4701-B8A9-0C6740FBF84E}
+    {D889F096-AFAB-4539-9E73-4DD3E05FCEC9}
+    {B43D07BD-61D5-448F-9323-8B6ACAD4F3C4}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Composite Theme
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130729T063428Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdba4e4f-981c-4c83-989c-d472e1e2c1fd"

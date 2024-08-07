@@ -1,0 +1,165 @@
+﻿---
+ID: "4408dd99-867b-4a64-ad48-0914432251cb"
+Parent: "e40dac6c-75ce-4489-a49d-9cfc58b28ec9"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Basic Site/Footer/Footer/Data/Address
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Adresse
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>Skate Park</span></p>
+        <p><span>12 Forever Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>The Nation of Skate</span></p>
+        <p><span>Fremstillet af <a href="https://www.sitecore.com/">Sitecore</a></span></p>
+        <div><span><br /></span></div>
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Adresse
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>Skate Park</span></p>
+        <p><span>12 Forever Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>The Nation of Skate</span></p>
+        <p><span>Made by <a href="https://www.sitecore.com/">Sitecore</a></span></p>
+        <div><span><br /></span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220608T115248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>Skate Park</span></p>
+        <p><span>12 Forever Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>The Nation of Skate</span></p>
+        <p><span>Made by <a href="https://www.sitecore.com/">Sitecore</a></span></p>
+        <div><span><br /></span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7bea0b5-8ee6-419c-9085-1b13cb8c232a"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: アドレス
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>スケートパーク </span></p>
+        <p><span>12 Forever Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>The Nation of Skate</span></p>
+        <p><span>（製作：<a href="https://www.sitecore.com/">Sitecore）</a></span></p>
+        <div><span><br /></span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z
+- Language: "zh-CN"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 地址
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T091426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>滑板公园</span></p>
+        <p><span>12 Forever Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>Sitecore 打造</span></p>
+        <p><span>的<a href="https://www.sitecore.com/">滑板王国</a></span></p>
+        <div><span><br /></span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab4377b-a8d7-4c44-aee6-3a35b5879b8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T091426Z

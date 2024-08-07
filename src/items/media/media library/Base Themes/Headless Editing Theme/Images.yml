@@ -1,0 +1,20 @@
+﻿---
+ID: "b08136e8-bba2-4185-a431-4189f0abd9dc"
+Parent: "3bcab9ef-1e4f-4c23-b452-783bb82aa686"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Base Themes/Headless Editing Theme/Images
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170216T082354Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16e184ef-8277-4480-9af6-18f93ae7acd9"

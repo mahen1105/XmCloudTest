@@ -1,0 +1,20 @@
+﻿---
+ID: "4e98036e-2f15-43fa-b680-fedfb9a4b8ad"
+Parent: "458a21eb-ea0b-4494-a91c-0441c72d0224"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Base Themes/Json/Scripts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170209T165757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd3cc55c-09bb-4036-a095-1a301932c021"

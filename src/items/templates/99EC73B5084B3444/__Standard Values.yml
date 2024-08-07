@@ -1,0 +1,20 @@
+﻿---
+ID: "76c6c3bd-4a4b-48e4-87d5-6f8e948eb535"
+Parent: "1bc5fa34-38e3-4e74-8fa8-f181b297e3b7"
+Template: "1bc5fa34-38e3-4e74-8fa8-f181b297e3b7"
+Path: /sitecore/templates/Foundation/Experience Accelerator/FEaaS/Rendering Parameters/FEaaS Wrapper Rendering Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T111005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab1e6ba0-6357-47da-bd0f-143cbff051aa"

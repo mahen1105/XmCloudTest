@@ -1,0 +1,16 @@
+﻿---
+ID: "2bc52bea-d0f2-489c-9006-2fcb165a4fa0"
+Parent: "3b3b5a74-0bb8-4e82-93d8-c04fd9ac3f7b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/styles/accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131401Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3fe7fe3-0b27-4fac-91c1-7215baf3c3db"

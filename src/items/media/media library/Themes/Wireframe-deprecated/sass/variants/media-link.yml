@@ -1,0 +1,16 @@
+﻿---
+ID: "a181d61f-607b-4da1-ae3e-8d4103b99443"
+Parent: "6cea6ab0-9341-4420-8fbf-883db1977189"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/variants/media-link"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131452Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "599c346d-e7c5-4f0f-80d9-2e93690d96d1"

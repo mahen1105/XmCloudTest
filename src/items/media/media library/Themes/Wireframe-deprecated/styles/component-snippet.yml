@@ -1,0 +1,33 @@
+﻿---
+ID: "9625139f-468e-4483-b439-b058cdb4ad2f"
+Parent: "66a6c716-4456-466a-a99a-e4735a3f2b7c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/styles/component-snippet"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9625139F468E4483B439B058CDB4AD2F.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9625139f-468e-4483-b439-b058cdb4ad2f"
+  Value: LnNuaXBwZXQgewogIHBhZGRpbmctbGVmdDogMDsKICBwYWRkaW5nLXJpZ2h0OiAwOwp9Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 52
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180309T095707Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3073773-a224-4a3c-8b8c-f458ff3f06fe"

@@ -1,0 +1,37 @@
+﻿---
+ID: "82fc93ab-6b47-4448-918e-a9ec2718cb2f"
+Parent: "0a768746-75fa-4f3f-84db-6f3cb0be015d"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/base/search/_component-sort-results"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/82FC93AB6B474448918EA9EC2718CB2F.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "82fc93ab-6b47-4448-918e-a9ec2718cb2f"
+  Value: LnNvcnQtcmVzdWx0cyB7DQogICAgQGltcG9ydCAiLi4vcmVzZXQvaW5wdXRzIjsNCiAgICBAaW5jbHVkZSBiYXNpYy1wYWRkaW5nKCk7DQogICAgLmNvbXBvbmVudC1jb250ZW50IHsNCiAgICAgICAgZGlzcGxheTogZmxleDsNCiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsNCiAgICAgICAgQGluY2x1ZGUgYmFzaWMtZm9udCgpOw0KICAgICAgICBzZWxlY3Qgew0KICAgICAgICAgICAgZmxleDogMTsNCiAgICAgICAgICAgIG1heC13aWR0aDogMTAwJTsNCiAgICAgICAgICAgIHdpZHRoOiBhdXRvOw0KICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOw0KICAgICAgICAgICAgbWluLXdpZHRoOiA4NXB4Ow0KICAgICAgICAgICAgbWF4LWhlaWdodDogNDBweDsNCiAgICAgICAgICAgIHBhZGRpbmc6IDEwcHg7DQogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7DQogICAgICAgICAgICBib3gtc2hhZG93OiBub25lOw0KICAgICAgICAgICAgZm9udC1mYW1pbHk6IGluaGVyaXQ7DQogICAgICAgICAgICBjb2xvcjogJHNlYXJjaC1zb3J0LXJlc3VsdC1jb2xvcjsNCiAgICAgICAgICAgIGZvbnQtc2l6ZTogJGZvbnQtc2l6ZS14LXNtYWxsOw0KICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHNlYXJjaC1zb3J0LXJlc3VsdC1iZzsNCiAgICAgICAgICAgIGJvcmRlci1jb2xvcjogJHNlYXJjaC1zb3J0LXJlc3VsdC1ib3JkZXI7DQogICAgICAgIH0NCiAgICAgICAgLmZhY2V0LXRpdGxlIHsNCiAgICAgICAgICAgIGZsZXg6IDE7DQogICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7DQogICAgICAgICAgICBtYXJnaW4tcmlnaHQ6ICRkZWZhdWx0LXBhZGRpbmc7DQogICAgICAgICAgICB0ZXh0LWFsaWduOiByaWdodDsNCiAgICAgICAgfQ0KICAgIH0NCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 904
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c282f22-c048-4730-9503-c5831e640239"

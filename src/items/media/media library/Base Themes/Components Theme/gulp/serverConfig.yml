@@ -1,0 +1,33 @@
+﻿---
+ID: "2b03fe7e-5dff-4013-9765-dfb9f88090ae"
+Parent: "84cd03cf-f3f2-40a3-899f-3a71b9cfbaec"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Components Theme/gulp/serverConfig
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2B03FE7E5DFF40139765DFB9F88090AE.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2b03fe7e-5dff-4013-9765-dfb9f88090ae"
+  Value: eyAic2VydmVyT3B0aW9ucyI6IHsgInByb2plY3RQYXRoIjogIlxcQmFzZSBUaGVtZXMiLCAidGhlbWVQYXRoIjogIlxcQ29tcG9uZW50cyBUaGVtZSIgfSB9
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 90
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: json
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181205T210724Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90215122-b2b6-435a-be49-97ba39047ae2"

@@ -1,0 +1,24 @@
+﻿---
+ID: "3c30afdf-f45f-4ed8-a0ba-33d5405e0269"
+Parent: "2af2dc09-057f-48c2-a9f4-9779adf83659"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/FEaaS/IFEaaSComponents editor script URL/Site Configuration
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Site Configuration
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230110T130848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36c1d603-6787-443c-b681-7f1f7453232c"

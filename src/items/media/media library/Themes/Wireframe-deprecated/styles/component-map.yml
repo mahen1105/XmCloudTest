@@ -1,0 +1,37 @@
+﻿---
+ID: "522580be-e6e8-4949-8e0d-caa6fa0f2ab0"
+Parent: "66a6c716-4456-466a-a99a-e4735a3f2b7c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/styles/component-map"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/522580BEE6E849498E0DCAA6FA0F2AB0.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "522580be-e6e8-4949-8e0d-caa6fa0f2ab0"
+  Value: LyogYnJlYWtwb2ludHMgKi8KLm1hcCB7CiAgLXdlYmtpdC1ib3JkZXItaW1hZ2U6IHVybCgiLi4vaW1hZ2VzL2JvcmRlci1zbWFsbC5wbmciKSAxMCUgcmVwZWF0IHJlcGVhdDsKICAtby1ib3JkZXItaW1hZ2U6IHVybCgiLi4vaW1hZ2VzL2JvcmRlci1zbWFsbC5wbmciKSAxMCUgcmVwZWF0IHJlcGVhdDsKICBib3JkZXItaW1hZ2U6IHVybCgiLi4vaW1hZ2VzL2JvcmRlci1zbWFsbC5wbmciKSAxMCUgcmVwZWF0IHJlcGVhdDsKICBib3JkZXItd2lkdGg6IDRweDsKICBib3JkZXItc3R5bGU6IHNvbGlkOwogIG1heC13aWR0aDogMTAwJTsKICBvdmVyZmxvdzogaGlkZGVuOwogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBiYWNrZ3JvdW5kOiAjZmFmYWZhOwp9Cgoubm8tYm9yZGVyaW1hZ2UgLm1hcCB7CiAgYm9yZGVyOiAycHggc29saWQgbm9uZTsKfQoKLm1hcCAubWFwLWNhbnZhcyB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwp9CgoubWFwIGltZyB7CiAgbWF4LXdpZHRoOiBub25lOwp9CgoubWFwIC5NaWNyb3NvZnRNYXAgLmluZm9ib3gtY2xvc2UgewogIHBvc2l0aW9uOiBzdGF0aWM7CiAgZmxvYXQ6IHJpZ2h0Owp9CgoubWFwIC5NaWNyb3NvZnRNYXAgLkluZm9ib3ggLmluZm9ib3gtYm9keSB7CiAgaGVpZ2h0OiAxMDAlOwp9CgoubWFwIC5NaWNyb3NvZnRNYXAgLkluZm9ib3ggLmluZm9ib3gtaW5mbyB7CiAgaGVpZ2h0OiAxMDAlOwogIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 729
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131738Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31e6ff2c-79db-463c-b8f7-56081d593ca3"

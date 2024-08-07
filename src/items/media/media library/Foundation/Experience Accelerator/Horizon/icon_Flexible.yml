@@ -1,0 +1,37 @@
+﻿---
+ID: "9da330b2-67d0-4688-b01a-5a1f401b78ae"
+Parent: "7d5af9a5-2703-4691-96de-ca8d1d311e96"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Foundation/Experience Accelerator/Horizon/icon_Flexible
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9DA330B267D04688B01A5A1F401B78AE.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9da330b2-67d0-4688-b01a-5a1f401b78ae"
+  Value: PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDYuMjIyMjJMMTAuMTgxOCA4LjQ0NDQ0SDEzLjgxODJMMTIgNi4yMjIyMlpNMTcuNDU0NSAxMC4yMjIyVjEzLjc3NzhMMTkuNzI3MyAxMkwxNy40NTQ1IDEwLjIyMjJaTTYuNTQ1NDUgMTAuMjIyMkw0LjI3MjczIDEyTDYuNTQ1NDUgMTMuNzc3OFYxMC4yMjIyWk0xMy44MTgyIDE1LjU1NTZIMTAuMTgxOEwxMiAxNy43Nzc4TDEzLjgxODIgMTUuNTU1NlpNMjAuMTgxOCA0SDMuODE4MThDMi44MTgxOCA0IDIgNC44IDIgNS43Nzc3OFYxOC4yMjIyQzIgMTkuMiAyLjgxODE4IDIwIDMuODE4MTggMjBIMjAuMTgxOEMyMS4xODE4IDIwIDIyIDE5LjIgMjIgMTguMjIyMlY1Ljc3Nzc4QzIyIDQuOCAyMS4xODE4IDQgMjAuMTgxOCA0Wk0yMC4xODE4IDE4LjIyMjJIMy44MTgxOFY1Ljc3Nzc4SDIwLjE4MThWMTguMjIyMloiIGZpbGw9IiM5NDk0OUQiLz4KPC9zdmc+Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 538
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230315T081436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "971ac0ab-07e6-4b2a-8096-df9201adfbf5"

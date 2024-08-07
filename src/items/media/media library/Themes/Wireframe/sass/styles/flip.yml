@@ -1,0 +1,16 @@
+﻿---
+ID: "dfa24ac2-ba39-47b2-af61-20799fc03b6f"
+Parent: "522c2865-1757-4350-802f-40c51d72a2c8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Wireframe/sass/styles/flip
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131416Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85722016-2499-4a57-94e6-d763a64e7b94"

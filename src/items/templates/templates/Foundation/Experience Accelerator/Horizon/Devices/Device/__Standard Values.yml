@@ -1,0 +1,23 @@
+﻿---
+ID: "0a2fd873-189f-45da-a257-45356f2e2ce4"
+Parent: "7c27ec70-f42e-4042-8a0f-abaa2f8eda18"
+Template: "7c27ec70-f42e-4042-8a0f-abaa2f8eda18"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Horizon/Devices/Device/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230303T124707Z
+    - ID: "4f886dd0-63dc-4a32-8765-e7fe78b9b0d2"
+      Hint: Name
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3641641a-1cfc-4469-89d2-7140ad1c973d"

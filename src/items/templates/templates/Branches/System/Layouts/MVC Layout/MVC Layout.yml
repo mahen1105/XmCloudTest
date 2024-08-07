@@ -1,0 +1,35 @@
+﻿---
+ID: "2f30b106-27fe-4c6d-9e10-189c60a5e5dc"
+Parent: "899d11cd-60d6-4c06-a777-450b16bb5b3f"
+Template: "b2613cc1-a748-46a3-a0db-3774574bd339"
+Path: /sitecore/templates/Branches/System/Layouts/MVC Layout/MVC Layout
+SharedFields:
+- ID: "854cc8f6-94ad-4521-a4b6-44ed8f794c98"
+  Hint: Command
+  Value: "ide:createfile(source={38126848-671D-42A7-AD3C-40525BF87FD1})"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20070905T121456Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b979ad67-44e8-447a-ba7f-cd0bd58449dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20150429T104215:635659009352466954Z"

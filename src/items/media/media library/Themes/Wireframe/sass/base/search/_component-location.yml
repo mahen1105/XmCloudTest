@@ -1,0 +1,37 @@
+﻿---
+ID: "d5f063e7-f06d-4a98-baba-170486c51ab0"
+Parent: "0a768746-75fa-4f3f-84db-6f3cb0be015d"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/base/search/_component-location"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/D5F063E7F06D4A98BABA170486C51AB0.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d5f063e7-f06d-4a98-baba-170486c51ab0"
+  Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL21peGlucyI7DQoubG9jYXRpb24tZmlsdGVyIHsNCiAgICBwb3NpdGlvbjogcmVsYXRpdmU7DQogICAgcGFkZGluZzogNXB4IDEwcHggMTVweCAxMHB4Ow0KICAgIG1hcmdpbjogMCAwIDIwcHggMDsNCiAgICBAaW1wb3J0ICIuLi9yZXNldC9pbnB1dHMiOw0KICAgIEBpbXBvcnQgIi4uL2F1dG9jb21wbGV0ZS9hdXRvY29tcGxldGUiOw0KICAgIC5jb21wb25lbnQtY29udGVudCB7DQogICAgICAgIGRpc3BsYXk6IGZsZXg7DQogICAgICAgID5kaXYsID5idXR0b24sID5sYWJlbCwgPmlucHV0LCA+c3BhbiB7DQogICAgICAgICAgICBvcmRlcjogMTsNCiAgICAgICAgfQ0KICAgICAgICA+bGFiZWwsID5idXR0b24gew0KICAgICAgICAgICAgZmxleC1ncm93OiAxOw0KICAgICAgICB9DQogICAgICAgID5sYWJlbCB7DQogICAgICAgICAgICBhbGlnbi1zZWxmOiBjZW50ZXI7DQogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7DQogICAgICAgIH0NCiAgICAgICAgPmlucHV0LCA+c3BhbiB7DQogICAgICAgICAgICBmbGV4LWdyb3c6IDEwOw0KICAgICAgICAgICAgd2lkdGg6IGF1dG87DQogICAgICAgICAgICBtYXJnaW46IDAgNXB4Ow0KICAgICAgICB9DQogICAgfQ0KfQ0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 669
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131349Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f26c9657-0893-41ff-b7df-b7b7ad73277a"

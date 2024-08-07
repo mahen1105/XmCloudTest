@@ -24,6 +24,7 @@ services:
       cm:
         condition: service_healthy
   mssql:
+    hostname: mssql
     isolation: ${ISOLATION}
     image: ${SITECORE_NONPRODUCTION_DOCKER_REGISTRY}nonproduction/mssql-developer:2017-${EXTERNAL_IMAGE_TAG_SUFFIX}
     environment:
@@ -54,6 +55,7 @@ services:
       mssql:
         condition: service_healthy
   solr:
+    hostname: solr
     isolation: ${ISOLATION}
     image: ${SITECORE_NONPRODUCTION_DOCKER_REGISTRY}nonproduction/solr:8.11.2-${EXTERNAL_IMAGE_TAG_SUFFIX}
     ports:

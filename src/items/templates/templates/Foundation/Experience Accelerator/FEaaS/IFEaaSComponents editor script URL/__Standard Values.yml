@@ -1,0 +1,23 @@
+﻿---
+ID: "43529fdb-153d-4f61-9de9-017b91b77dfb"
+Parent: "2af2dc09-057f-48c2-a9f4-9779adf83659"
+Template: "2af2dc09-057f-48c2-a9f4-9779adf83659"
+Path: /sitecore/templates/Foundation/Experience Accelerator/FEaaS/IFEaaSComponents editor script URL/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230301T093311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a67bc6b0-fb66-4cad-b7c8-1bde500a9f95"
+    - ID: "9cbc4d47-1608-4a43-ac9c-6eb461fe58f5"
+      Hint: ComponentEditorScript
+      Value: "https://feaasstatic.blob.core.windows.net/packages/page-extension/latest/page.js"

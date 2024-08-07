@@ -1,0 +1,23 @@
+﻿---
+ID: "fd4268c6-e588-4c19-b141-b1aad488887d"
+Parent: "8d1db71c-9acf-4192-8384-5f9b6d533f95"
+Template: "96c8e5dd-63c3-496b-a97c-a3e37e1dacba"
+Path: /sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120801T204343
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "adeeecba-414f-4ddc-950b-f4639673d61f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20120801T204343:634794506234682744"

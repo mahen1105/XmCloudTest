@@ -1,0 +1,20 @@
+﻿---
+ID: "47c7519e-65a5-4c4d-8394-b86ebb6d89e4"
+Parent: "0c8a31cb-8418-40da-b269-3d629dbe1d1b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Wireframe/sass/variants/rich-text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180103T100707Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a96afcb-300d-405b-a789-f8ce5b106524"

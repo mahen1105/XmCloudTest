@@ -1,0 +1,33 @@
+﻿---
+ID: "81edebfa-14d3-4ec3-9cf1-a9d2d9206952"
+Parent: "32d44b57-6728-49ce-9f06-3024ade1587e"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/component-social-media-share"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/81EDEBFA14D34EC39CF1A9D2D9206952.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "81edebfa-14d3-4ec3-9cf1-a9d2d9206952"
+  Value: QGltcG9ydCAiYWJzdHJhY3RzL21peGlucyI7DQpAaW1wb3J0ICJhYnN0cmFjdHMvdmFycyI7DQouc29jaWFsLW1lZGlhLXNoYXJlIHsNCiAgICBiYWNrZ3JvdW5kOiAkc29jaWFsLW1lZGlhLXNoYXJlLWJnOw0KICAgIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpOw0KICAgID4uY29tcG9uZW50LWNvbnRlbnQgew0KICAgICAgICB1bCB7DQogICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuOw0KICAgICAgICAgICAgZGlzcGxheTogZmxleDsNCiAgICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7DQogICAgICAgICAgICBmbGV4LXdyYXA6IHdyYXA7DQogICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOw0KICAgICAgICAgICAgbGkgew0KICAgICAgICAgICAgICAgIGhlaWdodDogMjBweDsNCiAgICAgICAgICAgICAgICBvcmRlcjogMTsNCiAgICAgICAgICAgICAgICBtYXJnaW46ICRkZWZhdWx0LXBhZGRpbmc7DQogICAgICAgICAgICAgICAgJjpmaXJzdC1jaGlsZCB7DQogICAgICAgICAgICAgICAgICAgIG1hcmdpbi1sZWZ0OiAwOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgICAgICAuZmJfaWZyYW1lX3dpZGdldCB7DQogICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAtMnB4Ow0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgIH0NCn0=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 722
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180911T121534:636722649343726080Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0eed73aa-bd8d-4cd2-a942-516b06451268"

@@ -1,0 +1,20 @@
+﻿---
+ID: "b335f778-4e0c-43ca-84b7-d93d213d0be8"
+Parent: "554e2252-16fb-4f5c-a53c-0b4e207b03e4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Wireframe/sass/base/animation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170731T123214Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d048a782-88d0-48d0-82bf-47e5e77cf9ad"

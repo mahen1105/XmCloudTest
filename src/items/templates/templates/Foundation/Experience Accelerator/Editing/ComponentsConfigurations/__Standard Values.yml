@@ -1,0 +1,27 @@
+﻿---
+ID: "b89bf134-b0c9-4e60-a3fe-f41980ced446"
+Parent: "e7f93ddc-e6fd-4a17-bf3c-959c82d6fb8d"
+Template: "e7f93ddc-e6fd-4a17-bf3c-959c82d6fb8d"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Editing/ComponentsConfigurations/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{90F309B0-E6F9-4DDA-BCCD-A83B2C5C3418}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230712T092844Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b54bfa95-f5fb-4f5b-bc60-3f9047977e95"

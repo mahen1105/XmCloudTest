@@ -1,0 +1,37 @@
+﻿---
+ID: "b6f72ca1-ff47-43fe-85d0-e239c05efd97"
+Parent: "75e27b93-111f-4f1c-bb8e-ea9edb377a72"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/base/fontawesome/_stacked"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B6F72CA1FF4743FE85D0E239C05EFD97.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b6f72ca1-ff47-43fe-85d0-e239c05efd97"
+  Value: Ly8gU3RhY2tlZCBJY29ucwovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouI3skZmEtY3NzLXByZWZpeH0tc3RhY2sgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDJlbTsKICBoZWlnaHQ6IDJlbTsKICBsaW5lLWhlaWdodDogMmVtOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KLiN7JGZhLWNzcy1wcmVmaXh9LXN0YWNrLTF4LCAuI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMnggewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICBsZWZ0OiAwOwogIHdpZHRoOiAxMDAlOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMXggeyBsaW5lLWhlaWdodDogaW5oZXJpdDsgfQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMnggeyBmb250LXNpemU6IDJlbTsgfQouI3skZmEtY3NzLXByZWZpeH0taW52ZXJzZSB7IGNvbG9yOiAkZmEtaW52ZXJzZTsgfQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 482
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a449ef97-37a2-4774-9eec-5994678b2ef7"

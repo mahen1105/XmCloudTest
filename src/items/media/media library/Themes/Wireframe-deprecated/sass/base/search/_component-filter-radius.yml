@@ -1,0 +1,37 @@
+﻿---
+ID: "2229388c-f869-4f4d-b214-a677ddf75a56"
+Parent: "8cf6fb75-4cd8-42f0-ac49-cbfa0cf865d2"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe-deprecated/sass/base/search/_component-filter-radius"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2229388CF8694F4DB214A677DDF75A56.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2229388c-f869-4f4d-b214-a677ddf75a56"
+  Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KLnJhZGl1cy1maWx0ZXIgew0KICAgIEBpbXBvcnQgIi4uL3Jlc2V0L2lucHV0cyI7DQogICAgLnJhZGl1cy1idXR0b24gew0KICAgICAgICAmLnNlbGVjdGVkIHsNCiAgICAgICAgICAgIGNvbG9yOiAkc2VhcmNoLWZpbHRlci1yYWRpdXMtYWN0aXZlOw0KICAgICAgICAgICAgYmFja2dyb3VuZDogJHNlYXJjaC1maWx0ZXItcmFkaXVzLWJnOw0KICAgICAgICB9DQogICAgfQ0KICAgIHVsIHsNCiAgICAgICAgbGkgew0KICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7DQogICAgICAgICAgICBib3JkZXItc3R5bGU6IHNvbGlkOw0KICAgICAgICAgICAgQGluY2x1ZGUgYm9yZGVyLWJhc2ljKGFsbCwgJHNlYXJjaC1maWx0ZXItcmFkaXVzLWJvcmRlciwgJGJvcmRlci13aWR0aDogM3B4IDNweCAzcHggMCk7DQogICAgICAgICAgICBmbG9hdDogbGVmdDsNCiAgICAgICAgICAgIHBhZGRpbmc6IDVweCA1cHg7DQogICAgICAgICAgICBjdXJzb3I6IHBvaW50ZXI7DQogICAgICAgICAgICAmOmZpcnN0LWNoaWxkIHsNCiAgICAgICAgICAgICAgICBib3JkZXItd2lkdGg6IDNweDsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgICAgICBoZWlnaHQ6IDMwcHg7DQogICAgfQ0KICAgIC5ib3R0b20tcmVtb3ZlLWZpbHRlciB7DQogICAgICAgIG1hcmdpbi1ib3R0b206IDVweDsNCiAgICB9DQp9DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 710
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131347Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "549f5ce2-504d-4428-b230-a41d60a1fe9b"

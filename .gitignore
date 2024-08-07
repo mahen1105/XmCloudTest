@@ -11,6 +11,10 @@
 *.itempackage
 *.sicpackage
 
+# local env files
+.env.local
+.env.*.local
+
 #Ignore thumbnails created by Windows
 Thumbs.db
 #Ignore files built by Visual Studio

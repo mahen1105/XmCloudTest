@@ -1,0 +1,24 @@
+﻿---
+ID: "e6575355-9995-4ea3-b2c0-08d3d73e25a5"
+Parent: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/VariantTemplate/__Standard Values
+SharedFields:
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150911T092244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2ba8cb0-7066-48c7-ab29-c84877c3106a"

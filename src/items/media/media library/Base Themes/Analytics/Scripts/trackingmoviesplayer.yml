@@ -1,0 +1,36 @@
+﻿---
+ID: "1c0e6bea-e3c1-4bfe-b5ff-e2a28caac1d9"
+Parent: "d7d7d1c7-1d4b-4d79-9ac4-fb2f370a93ef"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Analytics/Scripts/trackingmoviesplayer
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1C0E6BEAE3C14BFEB5FFE2A28CAAC1D9.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1c0e6bea-e3c1-4bfe-b5ff-e2a28caac1d9"
+  Value: 77u/Ly8vIDxyZWZlcmVuY2UgcGF0aD0iY2hpdmFzLmJhc2UuanMiIC8+DQovLy8gPHJlZmVyZW5jZSBwYXRoPSJjaGl2YXMuZG9tYWluLmpzIiAvPg0KLy8vIDxyZWZlcmVuY2UgcGF0aD0iY2hpdmFzLnRyYWNraW5nLmpzIiAvPg0KLy8vIDxyZWZlcmVuY2UgcGF0aD0ianF1ZXJ5LTEuNy4xLXZzZG9jLmpzIiAvPg0KLy8vIDxyZWZlcmVuY2UgcGF0aD0iZ2EuanMiIC8+DQoNClhBQ29udGV4dC5UcmFja2luZy5Nb3ZpZXMuUGxheWVyID0gZnVuY3Rpb24gKCQsIG9wdGlvbnMpDQp7DQogICAgdmFyIGFwaSA9IHt9LA0KICAgICAgICBkZWZhdWx0cyA9IHsNCiAgICAgICAgICAgICduYW1lJzogbnVsbCwNCiAgICAgICAgICAgICdjb21wbGV0ZWRUaW1lJzogbnVsbCwNCiAgICAgICAgICAgICdnZXREdXJhdGlvbic6IGZ1bmN0aW9uICgpIHsgfSwNCiAgICAgICAgICAgICdnZXRDdXJyZW50VGltZSc6IGZ1bmN0aW9uICgpIHsgfQ0KICAgICAgICB9LA0KICAgICAgICBjb25maWcgPSAkLmV4dGVuZCh7fSwgZGVmYXVsdHMsIG9wdGlvbnMpOw0KDQogICAgY29uZmlnLmNvbXBsZXRlZFRpbWUgPSBpc05hTihjb25maWcuY29tcGxldGVkVGltZSkgPyBkZWZhdWx0cy5jb21wbGV0ZWRUaW1lIDogY29uZmlnLmNvbXBsZXRlZFRpbWU7DQoNCiAgICBhcGkuZ2V0TmFtZSA9IGZ1bmN0aW9uICgpDQogICAgew0KICAgICAgICByZXR1cm4gY29uZmlnLm5hbWU7DQogICAgfTsNCg0KICAgIGFwaS5nZXRDb21wbGV0ZWRUaW1lID0gZnVuY3Rpb24gKCkNCiAgICB7DQogICAgICAgIHJldHVybiBjb25maWcuY29tcGxldGVkVGltZTsNCiAgICB9Ow0KDQogICAgYXBpLmdldEN1cnJlbnRUaW1lID0gZnVuY3Rpb24gKCkNCiAgICB7DQogICAgICAgIHJldHVybiBjb25maWcuZ2V0Q3VycmVudFRpbWUoKTsNCiAgICB9Ow0KDQogICAgYXBpLmdldER1cmF0aW9uID0gZnVuY3Rpb24gKCkNCiAgICB7DQogICAgICAgIHJldHVybiBjb25maWcuZ2V0RHVyYXRpb24oKTsNCiAgICB9Ow0KDQogICAgYXBpLmluaXQgPSBmdW5jdGlvbiAocGxheWVyTWFuYWdlcikNCiAgICB7DQogICAgfTsNCg0KICAgIHJldHVybiBhcGk7DQp9Ow==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1078
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 806
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160509T120143Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "600e4f97-51fd-44ea-b3e6-120a5ee053f1"

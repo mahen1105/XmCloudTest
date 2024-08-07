@@ -1,0 +1,37 @@
+﻿---
+ID: "8faa8102-3021-42e9-8b48-1f6a6ee97bc5"
+Parent: "cbf7de9b-bb7a-47f2-a3aa-0a6ed583c6eb"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/styles/tabs/tabs-vertical"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8FAA8102302142E98B481F6A6EE97BC5.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "8faa8102-3021-42e9-8b48-1f6a6ee97bc5"
+  Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL21peGlucyI7DQoudGFicy50YWJzLXZlcnRpY2FsIHsNCiAgICAudGFicy1pbm5lciB7DQogICAgICAgIGRpc3BsYXk6IGZsZXg7DQogICAgfQ0KICAgIC50YWJzLWhlYWRpbmcgew0KICAgICAgICB3aWR0aDogMTUlOw0KICAgICAgICBmbG9hdDogbGVmdDsNCiAgICAgICAgcGFkZGluZy10b3A6IDA7DQogICAgICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgwLDApOw0KICAgICAgICBmb250LXNpemU6IDEycHg7DQogICAgICAgIGxpIHsNCiAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgICAgICAgICAgd2lkdGg6IDEwMCU7DQogICAgICAgICAgICBtYXJnaW4tbGVmdDowOw0KICAgICAgICAgICAgQGluY2x1ZGUgYmFzaWMtYm9yZGVyKGFsbCwgJHRhYi1jb250YWluZXItYm9yZGVyKTsNCiAgICAgICAgICAgIGJvcmRlci1yaWdodC13aWR0aDogMDsNCiAgICAgICAgICAgIGJvcmRlci1ib3R0b20td2lkdGg6IDBweDsNCiAgICAgICAgICAgIEBpbmNsdWRlIGJhc2ljLWJvcmRlcihyaWdodCwkdGFiLWNvbnRhaW5lci1ib3JkZXIpOw0KICAgICAgICAgICAgJjpmaXJzdC1jaGlsZCB7DQogICAgICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogM3B4IDAgMCAwOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgJjpsYXN0LWNoaWxkIHsNCiAgICAgICAgICAgICAgICBib3JkZXItcmFkaXVzOiAwIDAgMCAzcHg7DQogICAgICAgICAgICB9DQogICAgICAgICAgICAmLmFjdGl2ZSB7DQogICAgICAgICAgICAgICBAaW5jbHVkZSBiYXNpYy1ib3JkZXIocmlnaHQsIHRyYW5zcGFyZW50KQ0KICAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgIH0NCiAgICAudGFicy1jb250YWluZXIgew0KICAgICAgICBtYXJnaW46IDA7DQogICAgICAgIGZsb2F0OiBsZWZ0Ow0KICAgICAgICB3aWR0aDogODUlOw0KICAgICAgICBtYXJnaW4tbGVmdDogLTFweDsNCiAgICAgICAgZm9udC1zaXplOiAxMnB4Ow0KICAgIH0NCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1057
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d93fe14-04d6-42fd-83a6-40834674390a"

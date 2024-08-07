@@ -1,0 +1,24 @@
+﻿---
+ID: "9492f654-67b2-4966-883d-bde5e4987d46"
+Parent: "d907e0e1-f1ad-4614-9166-ef14183fe03b"
+Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
+Path: /sitecore/media library/Base Themes/Bing Maps JS Connector
+SharedFields:
+- ID: "1123bac0-6b46-4faa-b684-8423c13e4004"
+  Hint: CompositeLayout
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bing Maps JS Connector
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160517T105133Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88d14935-5c26-440c-b089-4dfe3ada49fb"

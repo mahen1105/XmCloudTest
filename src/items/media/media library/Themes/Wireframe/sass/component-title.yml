@@ -1,0 +1,37 @@
+﻿---
+ID: "dc3f4b98-a79d-421a-bda2-9e3d99bfc863"
+Parent: "32d44b57-6728-49ce-9f06-3024ade1587e"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Wireframe/sass/component-title"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DC3F4B98A79D421ABDA29E3D99BFC863.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "dc3f4b98-a79d-421a-bda2-9e3d99bfc863"
+  Value: QGltcG9ydCAiYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiYWJzdHJhY3RzL21peGlucyI7DQoudGl0bGUgew0KICAgIEBpbmNsdWRlIGJhc2ljLXBhZGRpbmcoKTsNCiAgICA+LmNvbXBvbmVudC1jb250ZW50IHsNCiAgICAgICAgQGluY2x1ZGUgYmFzaWMtc3R5bGVzKCR0aXRsZS1iZywgJHRpdGxlLWNvbG9yKTsNCiAgICAgICAgQGluY2x1ZGUgYmFzaWMtYm9yZGVyKGFsbCwgJHRpdGxlLWJvcmRlcik7DQogICAgICAgIGgxLA0KICAgICAgICAuZmllbGQtdGl0bGUgew0KICAgICAgICAgICAgYSB7DQogICAgICAgICAgICAgICAgQGluY2x1ZGUgYmFzaWMtYm9yZGVyKGJvdHRvbSwgJHRpdGxlLXRleHQtYm9yZGVyKTsNCiAgICAgICAgICAgICAgICBmb250LXNpemU6ICRmb250LWV4dHJhYmlnOw0KICAgICAgICAgICAgICAgIGNvbG9yOiAkdGl0bGUtY29sb3I7DQogICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7DQogICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOw0KICAgICAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjsNCiAgICAgICAgICAgICAgICBwYWRkaW5nLWJvdHRvbTogJGRlZmF1bHQtcGFkZGluZzsNCiAgICAgICAgICAgICAgICAmOmhvdmVyIHsNCiAgICAgICAgICAgICAgICAgICAgY29sb3I6ICR0aXRsZS1jb2xvci1hY3RpdmU7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgfQ0KICAgIEBpbXBvcnQgInZhcmlhbnRzL3RpdGxlLyoiOw0KfQ==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 757
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170707T131758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61288880-0d3a-4549-8e70-cdcf61a0aaa0"

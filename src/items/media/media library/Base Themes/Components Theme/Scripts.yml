@@ -1,0 +1,20 @@
+﻿---
+ID: "02f3f9cf-6e2b-49c8-be56-9701c0316569"
+Parent: "c7f3c097-9a71-4701-b8a9-0c6740fbf84e"
+Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
+Path: /sitecore/media library/Base Themes/Components Theme/Scripts
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/02F3F9CF6E2B49C8BE569701C0316569.ashx?h=16&thn=1&w=16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180226T082023Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75659303-33df-4f42-bfe5-db343f5d728d"

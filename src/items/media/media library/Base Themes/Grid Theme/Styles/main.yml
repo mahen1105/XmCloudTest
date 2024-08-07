@@ -1,0 +1,37 @@
+﻿---
+ID: "b7f25e78-6bcf-4bf8-b7dd-b3e8a93af175"
+Parent: "a81c334e-cc7a-4325-bea2-08aee0caf970"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Base Themes/Grid Theme/Styles/main
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B7F25E786BCF4BF8B7DDB3E8A93AF175.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b7f25e78-6bcf-4bf8-b7dd-b3e8a93af175"
+  Value: LyogbGluZSAxLCAuLi9zYXNzL21haW4uc2NzcyAqLw0KLnNjSW5zZXJ0aW9uSGFuZGxlLA0KLnNjSW5zZXJ0aW9uSGFuZGxlUmlnaHQsDQouc2NJbnNlcnRpb25IYW5kbGVDZW50ZXIsDQouc2NJbnNlcnRpb25IYW5kbGVMZWZ0LA0KLnNjLWJyZWFkY3J1bWItaXRlbS1wYXRoIHsNCiAgLXdlYmtpdC1ib3gtc2l6aW5nOiBjb250ZW50LWJveDsNCiAgLW1vei1ib3gtc2l6aW5nOiBjb250ZW50LWJveDsNCiAgYm94LXNpemluZzogY29udGVudC1ib3g7IH0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 259
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170314T101357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "128ee1c5-6cc2-43e0-8c69-f63586395f26"
