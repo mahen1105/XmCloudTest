@@ -8,18 +8,39 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240807T123636Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
     - ID: "6e8ae3cb-eafc-49a1-a1f2-efe2e9b04acd"
       Hint: PreviousLabel
       Value: Forrige
     - ID: "85c8ab08-22ca-41bf-9673-f7d1f25174a7"
       Hint: NextLabel
       Value: Næste
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba377abd-bfed-4b67-8af0-9d52bc7b82d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
     - ID: "c431b494-cbb5-4bbd-8276-3d9be420fc92"
       Hint: LastLabel
       Value: Sidst
     - ID: "cd2000f5-5ad5-44f0-8c83-5a87ea9812ac"
       Hint: FirstLabel
       Value: Først
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123636Z
 - Language: "de-DE"
   Versions:
   - Version: 1

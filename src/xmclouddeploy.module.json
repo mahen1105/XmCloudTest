@@ -9,6 +9,11 @@
                 "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
                 "name": "contentRoot",
                 "path": "/sitecore/content",
                 "allowedPushOperations": "CreateUpdateAndDelete"

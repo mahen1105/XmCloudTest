@@ -15,18 +15,39 @@ Languages:
     - ID: "129b54ab-7d51-4c6b-899c-642bb3ee4b85"
       Hint: RememberMeLabel
       Value: Husk mig
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240807T123636Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
     - ID: "53e213e6-e020-4c32-a559-ec90b5b67179"
       Hint: UsernameLabel
       Value: "Brugernavn:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba377abd-bfed-4b67-8af0-9d52bc7b82d6"
     - ID: "99c9fdd7-4503-489b-8a21-115b963aa341"
       Hint: LoginButtonCaption
       Value: Log ind
     - ID: "b80f0331-68e7-4515-8485-903b5c8b2390"
       Hint: PasswordLabel
       Value: "Adgangskode:"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
     - ID: "bc5cd635-130e-4a03-a5d0-e1afb9ae6055"
       Hint: FailureText
       Value: Dit forsøg på login lykkedes ikke. Prøv igen.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123636Z
 - Language: "de-DE"
   Versions:
   - Version: 1

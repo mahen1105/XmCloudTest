@@ -13,6 +13,7 @@ services:
 
   rendering:
     image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-rendering:${VERSION:-latest}
+    hostname: rendering
     build:
       context: ./docker/build/rendering
       target: ${BUILD_CONFIGURATION}

@@ -114,6 +114,9 @@ services:
       SITECORE_FedAuth_dot_Auth0_dot_Domain: ${SITECORE_FedAuth_dot_Auth0_dot_Domain}
       SITECORE_FedAuth_dot_Auth0_dot_Audience: ${SITECORE_FedAuth_dot_Auth0_dot_Audience}
       SITECORE_FedAuth_dot_Auth0_dot_LogoutRedirect: ${SITECORE_FedAuth_dot_Auth0_dot_LogoutRedirect}
+      HTTP_PROXY: http://PROXY_URL
+      HTTPS_PROXY: http://PROXY_URL
+      NO_PROXY: localhost, 127.0.0.1, .local, solr, mssql, traefik, mssql-init, solr-init, cm, rendering
     healthcheck:
       test: ["CMD", "powershell", "-command", "C:/Healthchecks/Healthcheck.ps1"]
       timeout: 300s

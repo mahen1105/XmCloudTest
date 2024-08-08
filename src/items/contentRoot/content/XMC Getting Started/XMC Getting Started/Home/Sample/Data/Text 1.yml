@@ -1,0 +1,31 @@
+﻿---
+ID: "01022838-ae96-493b-b789-a6a1763908c1"
+Parent: "0b0f0257-b7e8-40fd-9c09-43b2050443be"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/XMC Getting Started/XMC Getting Started/Home/Sample/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T064607Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f8b211d-883d-4699-b44f-1e876c61d38f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T064607Z

@@ -1,0 +1,54 @@
+﻿---
+ID: "9cda26af-f41d-418f-9004-5c21bc4d821d"
+Parent: "25187bad-eb37-45c4-a511-be5bd6a01262"
+Template: "b43ab8d5-e123-42dd-8042-de869cc98c4f"
+Path: "/sitecore/media library/Themes/Wireframe/scripts/optimized-min"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/package.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2f4420c7-b948-49ee-ab87-a85a8e863e9d"
+  Value: WEEuY29tcG9uZW50LnBsYXlsaXN0JiZYQS5jb21wb25lbnQucGxheWxpc3QuaW5pdEluc3RhbmNlJiYoWEEuY29tcG9uZW50LnBsYXlsaXN0LmluaXRJbnN0YW5jZT1mdW5jdGlvbihuKXt2YXIgdD1mdW5jdGlvbihuKXt2YXIgdD1YQS5jb21wb25lbnQuaXJlcGxhY2VyO3QucmVwbGFjZUljb24obil9LGk9ZnVuY3Rpb24oKXt9O3JldHVybiBmdW5jdGlvbihyLHUpe3RyeXt0KHIsdSl9Y2F0Y2goZil7Y29uc29sZS5sb2coZil9dmFyIGU9bi5hcHBseSh0aGlzLFtyLHVdKTt0cnl7aShyLHUpfWNhdGNoKGYpe2NvbnNvbGUubG9nKGYpfXJldHVybiBlfX0oWEEuY29tcG9uZW50LnBsYXlsaXN0LmluaXRJbnN0YW5jZSxqUXVlcnkpKTtYQS5jb21wb25lbnQuaXJlcGxhY2VyPWZ1bmN0aW9uKG4pe3ZhciB0PXt9LGk9Ii5maWVsZC1tb3ZpZXRodW1ibmFpbCBhIixyPWZ1bmN0aW9uKG4pe3ZhciB0PW4uY2xvc2VzdCgiLmNvbXBvbmVudCIpO3JldHVybiB0LmF0dHIoImNsYXNzIikuc3BsaXQoIiAiKVsxXX0sdT1mdW5jdGlvbihuKXt2YXIgdD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJkaXYiKTtyZXR1cm4gdC5jbGFzc05hbWU9WyJzeGEtaWNvbiIsInN4YS1pY29uLSIrbl0uam9pbigiICIpLHR9LGY9ZnVuY3Rpb24obil7dmFyIHQ9bi5wYXJlbnQoKSxpPXIobiksZj11KGkpO3QuYXBwZW5kKGYpfTtyZXR1cm4gdC5yZXBsYWNlSWNvbj1mdW5jdGlvbih0KXt2YXIgcj1uKHQpLmZpbmQoaSk7ZihyKX0sdH0oalF1ZXJ5LF8pO1hBLnJlZ2lzdGVyKCJpcmVwbGFjZXIiLFhBLmNvbXBvbmVudC5pcmVwbGFjZXIp
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 798
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T115144Z
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: "optimized-min"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "058188f4-213d-4886-acc6-b5edace2e4e1"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Experience accelerator optimized file
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T115144Z

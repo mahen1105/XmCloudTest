@@ -1,0 +1,54 @@
+﻿---
+ID: "00dfa20e-64ee-4e84-88cc-ab9d80ff43dd"
+Parent: "64625028-cc9c-4b70-8a46-7c21693dda5c"
+Template: "b43ab8d5-e123-42dd-8042-de869cc98c4f"
+Path: "/sitecore/media library/Base Themes/Resolve Conflicts/Scripts/optimized-min"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/package.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "5004de3f-48d7-4d37-b83b-4ef0a45ec15e"
+  Value: alF1ZXJ5Lm5vQ29uZmxpY3QoKQ==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 19
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T115143Z
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: "optimized-min"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79667a65-c40f-475a-be7f-2791cbeee0dd"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Experience accelerator optimized file
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T115143Z
