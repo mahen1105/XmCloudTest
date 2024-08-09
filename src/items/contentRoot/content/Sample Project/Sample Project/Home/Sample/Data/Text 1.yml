@@ -13,7 +13,7 @@ Languages:
       Value: <r />
     - ID: "153a60aa-82bb-4cd2-a561-2bc3da1c5d24"
       Hint: Text
-      Value: "new - Your description will go here ...Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ... Your description will go here ...  "
+      Value: new Your description can go here...
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240808T150729Z
@@ -27,14 +27,14 @@ Languages:
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c1560521-abdd-4754-a86e-53de8190b8b4"
+      Value: "58800c98-3c00-45db-a071-f658e01360ed"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240808T181326Z
+      Value: 20240809T080752Z
     - ID: "f041636f-302e-431e-a97c-9f56da28d525"
       Hint: Title
-      Value: "new - Your title will go here ..."
+      Value: new Title ....
