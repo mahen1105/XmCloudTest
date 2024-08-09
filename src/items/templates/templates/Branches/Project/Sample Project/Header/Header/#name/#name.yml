@@ -1,0 +1,31 @@
+﻿---
+ID: "aa5d9f33-9337-4e5b-8c0c-f74cb70dea0c"
+Parent: "d6e07e3a-239b-48f4-8024-7486e327cffe"
+Template: "57226a49-dec1-4f17-8360-6d6071141e8d"
+Path: /sitecore/templates/Branches/Project/Sample Project/Header/Header/$name/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T113152Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c505cd96-7038-40e9-bf16-300dafdea40e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T113507Z

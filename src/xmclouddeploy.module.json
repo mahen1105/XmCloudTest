@@ -9,6 +9,11 @@
                 "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Project",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
                 "name": "renderings",
                 "path": "/sitecore/layout/Renderings/Project",
                 "allowedPushOperations": "CreateUpdateAndDelete"

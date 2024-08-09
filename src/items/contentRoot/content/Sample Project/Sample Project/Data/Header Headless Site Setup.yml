@@ -1,0 +1,40 @@
+﻿---
+ID: "9a6109d6-79b2-4ba8-8adb-1132cca3062e"
+Parent: "e732b57b-1884-40a6-8ce5-d4ecb0a0593e"
+Template: "63af4a0e-da81-45ac-b591-0f1f940d0e97"
+Path: /sitecore/content/Sample Project/Sample Project/Data/Header Headless Site Setup
+BranchID: "d3f81f5a-14d7-4810-827d-999538782a1b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D6E07E3A-239B-48F4-8024-7486E327CFFE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08cdd701-63e4-4fdb-93d6-840a6fc2d286"
+      Hint: Logo
+      Value: |
+        <image mediaid="{E0457743-1E14-4850-836C-D11A46DF1C93}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T113554Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04d5d832-e1c4-41e4-acaa-1e795cc1c4c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "ce634b08-bbf1-418a-8bef-c0f79c3ea763"
+      Hint: Navigations
+      Value: |
+        {371CC68E-1E62-4AC2-A6EC-5B4436130A89}
+        {DAE1E4AF-CF73-4E8F-907B-009A27D09685}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T132733Z

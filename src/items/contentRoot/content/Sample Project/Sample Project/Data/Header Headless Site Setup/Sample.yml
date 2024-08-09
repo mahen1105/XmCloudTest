@@ -1,0 +1,43 @@
+﻿---
+ID: "dae1e4af-cf73-4e8f-907b-009a27d09685"
+Parent: "9a6109d6-79b2-4ba8-8adb-1132cca3062e"
+Template: "57226a49-dec1-4f17-8360-6d6071141e8d"
+Path: /sitecore/content/Sample Project/Sample Project/Data/Header Headless Site Setup/Sample
+BranchID: "d3f81f5a-14d7-4810-827d-999538782a1b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AA5D9F33-9337-4E5B-8C0C-F74CB70DEA0C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "059d24eb-f4fb-44c6-aeb8-e327b7782a30"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{24D961CD-BB3C-4B71-9647-91204A7A8523}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T113554Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3637d26d-a7cc-43de-8609-717308e300e5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahendra_kumar_meena@epam.com
+    - ID: "c0b735f4-501f-4ae2-b83d-cef932ce5632"
+      Hint: Title
+      Value: Sample
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T113700Z

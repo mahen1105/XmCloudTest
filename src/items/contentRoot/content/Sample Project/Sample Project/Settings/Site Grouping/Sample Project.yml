@@ -23,6 +23,9 @@ SharedFields:
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
+- ID: "b59e43ab-84da-49f3-87a1-d2fcf648365b"
+  Hint: Scheme
+  Value: https
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Sample Project
@@ -53,11 +56,11 @@ Languages:
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "efeeea6a-0a96-44e6-81a0-5a9e3a2c5e2c"
+      Value: "123baabf-9bf2-436e-a2a8-53221578983c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240808T143545Z
+      Value: 20240809T152630Z
