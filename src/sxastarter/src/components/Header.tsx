@@ -1,15 +1,14 @@
 import React from 'react';
-import { Image, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
-import Link from 'next/link';
+import { Image, ImageField, Link, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 
-export type NavLinks = {
-  fields: Fields;
-  name: string;
-}
+export type NavigationLink = {
+  title: string;
+  link: LinkField;
+};
 
 interface Fields {
   Logo: ImageField;
-  Navigations: NavLinks[];
+  Navigations: NavigationLink[];
 }
 
 export type HeaderProps = {
@@ -24,16 +23,12 @@ export const Default = (props: HeaderProps): JSX.Element => {
       <nav>
         <Image field={props.fields.Logo} />
         <div>
-          {
-            props.fields.Navigations && props.fields.Navigations.map((link: NavLinks, index: number) => (
-              <>
-                {
-                  index != 0 ? <span>&nbsp;|&nbsp;</span> : ''
-                }
-                {link.fields.Title.value}
-              </>
-            ))
-          }
+          {props.fields.Navigations?.map((link: NavigationLink, index: number) => (
+            <React.Fragment key={index}>
+              {index != 0 ? <span>&nbsp;|&nbsp;</span> : ''}
+              <Link field={link.link}>{link.title}</Link>
+            </React.Fragment>
+          ))}
         </div>
       </nav>
     </div>
