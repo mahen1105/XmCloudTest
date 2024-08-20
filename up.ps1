@@ -31,7 +31,7 @@ if ($ClientCredentialsLogin -eq "true") {
 $xmCloudBuild = Get-Content "xmcloud.build.json" | ConvertFrom-Json
 $nodeVersion = $xmCloudBuild.renderingHosts.xmcloudpreview.nodeVersion
 if (![string]::IsNullOrWhitespace($nodeVersion)) {
-    Set-EnvFileVariable "NODEJS_VERSION" -Value $xmCloudBuild.renderingHosts.xmcloudpreview.nodeVersion
+    #Set-EnvFileVariable "NODEJS_VERSION" -Value $xmCloudBuild.renderingHosts.xmcloudpreview.nodeVersion
 }
 
 # Double check whether init has been run

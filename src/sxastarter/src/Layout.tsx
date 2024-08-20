@@ -30,6 +30,7 @@ const Layout = ({ layoutData, headLinks }: LayoutProps): JSX.Element => {
   return (
     <>
       <Scripts />
+      <div>sxastarter Layout</div>
       <Head>
         <title>{fields?.Title?.value?.toString() || 'Page'}</title>
         <link rel="icon" href={`${publicUrl}/favicon.ico`} />

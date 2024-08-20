@@ -37,12 +37,39 @@ services:
       - "traefik.http.routers.rendering-secure.rule=Host(`${RENDERING_HOST}`)"
       - "traefik.http.routers.rendering-secure.tls=true"
 
+  secondrenderinghost:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-secondrenderinghost:${VERSION:-latest}
+    hostname: secondrenderinghost
+    build:
+      context: ./docker/build/secondrenderinghost
+      target: ${BUILD_CONFIGURATION}
+      args:
+        PARENT_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
+    volumes:
+      - .\src\secondrenderinghost:C:\app
+    environment:
+      SITECORE_API_HOST: "http://cm"
+      NEXTJS_DIST_DIR: ".next-container"
+      PUBLIC_URL: "https://${RENDERING_HOST_SECONDRENDERINGHOST}"
+      JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
+      SITECORE_API_KEY: "${SITECORE_API_KEY_secondrenderinghost}"
+      DISABLE_SSG_FETCH: ${DISABLE_SSG_FETCH}
+    depends_on:
+      - cm
+      - nodejs
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.secondrenderinghost-secure.entrypoints=websecure"
+      - "traefik.http.routers.secondrenderinghost-secure.rule=Host(`${RENDERING_HOST_SECONDRENDERINGHOST}`)"
+      - "traefik.http.routers.secondrenderinghost-secure.tls=true"
+
   # Mount the Traefik configuration and certs.
   traefik:
     volumes:
       - ./docker/traefik:C:/etc/traefik
     depends_on:
       - rendering
+      - secondrenderinghost
 
   # Mount our SQL data folder and use our custom image with the Headless Services (JSS)
   # module data added. See Dockerfile for details.

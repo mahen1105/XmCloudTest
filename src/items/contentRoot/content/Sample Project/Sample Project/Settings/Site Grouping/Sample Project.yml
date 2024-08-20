@@ -34,7 +34,7 @@ SharedFields:
   Value: *
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Default
+  Value: Second Rendering Host
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
@@ -56,11 +56,11 @@ Languages:
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "123baabf-9bf2-436e-a2a8-53221578983c"
+      Value: "e271b0bb-b3f9-47c3-9028-4e9296282327"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mahendra_kumar_meena@epam.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240809T152630Z
+      Value: 20240816T033315Z

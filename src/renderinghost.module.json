@@ -12,6 +12,11 @@
                 "name": "LocalRenderingHost",
                 "path": "/sitecore/system/Settings/Services/Rendering Hosts/Local",
                 "scope": "singleItem"
+            },
+            {
+                "name": "SecondRenderingHost",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Second Rendering Host",
+                "scope": "singleItem"
             }
         ]
     }
